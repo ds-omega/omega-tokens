@@ -1,0 +1,13 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "palette",
+    "semantic light",
+    "component tokens light",
+    "semantic dark",
+    "component tokens dark",
+    "shadows",
+    "spaces, sizes, b.radius",
+    "typography"
+  ]
+}
