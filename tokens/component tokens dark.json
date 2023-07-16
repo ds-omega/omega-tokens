@@ -1237,7 +1237,7 @@
           "type": "color"
         },
         "borderFilled": {
-          "value": "{semantic.dark.success.primary}",
+          "value": "{semantic.dark.primary.transparent16}",
           "type": "color"
         },
         "borderWarning": {
