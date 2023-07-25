@@ -20,7 +20,7 @@
         },
         "brand": {
           "body": {
-            "value": "{semantic.light.brand.transparent8}",
+            "value": "{semantic.light.brand.8}",
             "type": "color"
           },
           "border": {
@@ -338,7 +338,7 @@
       "badge": {
         "primary": {
           "body": {
-            "value": "{semantic.light.primary.transparent8}",
+            "value": "{semantic.light.primary.8}",
             "type": "color"
           },
           "icon": {
@@ -352,7 +352,7 @@
         },
         "brand": {
           "body": {
-            "value": "{semantic.light.brand.transparent8}",
+            "value": "{semantic.light.brand.8}",
             "type": "color"
           },
           "icon": {
@@ -441,7 +441,7 @@
           "type": "color"
         },
         "bodyPrimary": {
-          "value": "{semantic.light.primary.transparent12}",
+          "value": "{semantic.light.primary.12}",
           "type": "color"
         },
         "bodyBrand": {
@@ -709,7 +709,7 @@
           },
           "brand": {
             "bodyHover": {
-              "value": "{semantic.light.brand.transparent8}",
+              "value": "{semantic.light.brand.8}",
               "type": "color"
             },
             "bodyClick": {
@@ -817,11 +817,11 @@
           },
           "primary": {
             "bodyHover": {
-              "value": "{semantic.light.primary.transparent8}",
+              "value": "{semantic.light.primary.8}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.light.primary.transparent12}",
+              "value": "{semantic.light.primary.12}",
               "type": "color"
             },
             "text": {
@@ -837,7 +837,7 @@
         "tonned": {
           "brand": {
             "bodyNormal": {
-              "value": "{semantic.light.brand.transparent8}",
+              "value": "{semantic.light.brand.8}",
               "type": "color"
             },
             "bodyHover": {
@@ -969,15 +969,15 @@
           },
           "primary": {
             "bodyNormal": {
-              "value": "{semantic.light.primary.transparent4}",
+              "value": "{semantic.light.primary.4}",
               "type": "color"
             },
             "bodyHover": {
-              "value": "{semantic.light.primary.transparent8}",
+              "value": "{semantic.light.primary.8}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.light.primary.transparent12}",
+              "value": "{semantic.light.primary.12}",
               "type": "color"
             },
             "text": {
@@ -1203,11 +1203,11 @@
       },
       "divider": {
         "thin": {
-          "value": "{semantic.light.primary.transparent12}",
+          "value": "{semantic.light.primary.12}",
           "type": "color"
         },
         "fat": {
-          "value": "{semantic.light.primary.transparent8}",
+          "value": "{semantic.light.primary.8}",
           "type": "color"
         }
       },
@@ -1217,19 +1217,19 @@
           "type": "color"
         },
         "bodyDisabled": {
-          "value": "{semantic.light.primary.transparent4}",
+          "value": "{semantic.light.primary.4}",
           "type": "color"
         },
         "borderNormal": {
-          "value": "{semantic.light.primary.transparent16}",
+          "value": "{semantic.light.primary.16}",
           "type": "color"
         },
         "borderHover": {
-          "value": "{semantic.light.primary.transparent24}",
+          "value": "{semantic.light.primary.24}",
           "type": "color"
         },
         "borderClick": {
-          "value": "{semantic.light.primary.transparent32}",
+          "value": "{semantic.light.primary.32}",
           "type": "color"
         },
         "borderActive": {
@@ -1237,7 +1237,7 @@
           "type": "color"
         },
         "borderFilled": {
-          "value": "{semantic.light.primary.transparent16}",
+          "value": "{semantic.light.primary.16}",
           "type": "color"
         },
         "borderWarning": {
@@ -1245,11 +1245,11 @@
           "type": "color"
         },
         "borderDisabled": {
-          "value": "{semantic.light.primary.transparent16}",
+          "value": "{semantic.light.primary.16}",
           "type": "color"
         },
         "borderReadOnly": {
-          "value": "{semantic.light.primary.transparent16}",
+          "value": "{semantic.light.primary.16}",
           "type": "color"
         },
         "textPlaceholder": {
@@ -1308,11 +1308,11 @@
             "type": "color"
           },
           "bodyHover": {
-            "value": "{semantic.light.primary.transparent4}",
+            "value": "{semantic.light.primary.4}",
             "type": "color"
           },
           "bodyClick": {
-            "value": "{semantic.light.primary.transparent8}",
+            "value": "{semantic.light.primary.8}",
             "type": "color"
           }
         },
@@ -1330,7 +1330,7 @@
             "type": "color"
           },
           "bodyHover": {
-            "value": "{semantic.light.brand.transparent8}",
+            "value": "{semantic.light.brand.8}",
             "type": "color"
           },
           "bodyClick": {
@@ -1480,15 +1480,15 @@
         },
         "inactive": {
           "bodyNormal": {
-            "value": "{semantic.light.primary.transparent8}",
+            "value": "{semantic.light.primary.8}",
             "type": "color"
           },
           "bodyHover": {
-            "value": "{semantic.light.primary.transparent12}",
+            "value": "{semantic.light.primary.12}",
             "type": "color"
           },
           "bodyClick": {
-            "value": "{semantic.light.primary.transparent16}",
+            "value": "{semantic.light.primary.16}",
             "type": "color"
           }
         }
@@ -1508,11 +1508,11 @@
             "type": "color"
           },
           "bodyHover": {
-            "value": "{semantic.light.primary.transparent4}",
+            "value": "{semantic.light.primary.4}",
             "type": "color"
           },
           "bodyClick": {
-            "value": "{semantic.light.primary.transparent8}",
+            "value": "{semantic.light.primary.8}",
             "type": "color"
           },
           "borderNormal": {
@@ -1538,7 +1538,7 @@
             "type": "color"
           },
           "bodyNormal": {
-            "value": "{semantic.light.brand.transparent8}",
+            "value": "{semantic.light.brand.8}",
             "type": "color"
           },
           "bodyHover": {
@@ -1594,19 +1594,19 @@
             "type": "color"
           },
           "bodyNormal": {
-            "value": "{semantic.light.primary.transparent24}",
+            "value": "{semantic.light.primary.24}",
             "type": "color"
           },
           "bodyHover": {
-            "value": "{semantic.light.primary.transparent32}",
+            "value": "{semantic.light.primary.32}",
             "type": "color"
           },
           "bodyClick": {
-            "value": "{semantic.light.primary.transparent40}",
+            "value": "{semantic.light.primary.40}",
             "type": "color"
           },
           "bodyDisabled": {
-            "value": "{semantic.light.primary.transparent16}",
+            "value": "{semantic.light.primary.16}",
             "type": "color"
           },
           "bodyWarning": {
@@ -1673,19 +1673,19 @@
               "type": "color"
             },
             "bodyNormal": {
-              "value": "{semantic.light.primary.transparent8}",
+              "value": "{semantic.light.primary.8}",
               "type": "color"
             },
             "bodyHover": {
-              "value": "{semantic.light.primary.transparent12}",
+              "value": "{semantic.light.primary.12}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.light.primary.transparent16}",
+              "value": "{semantic.light.primary.16}",
               "type": "color"
             },
             "bodyDisabled": {
-              "value": "{semantic.light.primary.transparent4}",
+              "value": "{semantic.light.primary.4}",
               "type": "color"
             }
           },
@@ -1747,11 +1747,11 @@
               "type": "color"
             },
             "bodyHover": {
-              "value": "{semantic.light.primary.transparent8}",
+              "value": "{semantic.light.primary.8}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.light.primary.transparent12}",
+              "value": "{semantic.light.primary.12}",
               "type": "color"
             },
             "bodyDisabled": {
@@ -1785,7 +1785,7 @@
               "type": "color"
             },
             "bodyHover": {
-              "value": "{semantic.light.brand.transparent8}",
+              "value": "{semantic.light.brand.8}",
               "type": "color"
             },
             "bodyClick": {
