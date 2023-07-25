@@ -20,11 +20,11 @@
         },
         "brand": {
           "body": {
-            "value": "{semantic.dark.brand.transparent8}",
+            "value": "{semantic.dark.brand.8}",
             "type": "color"
           },
           "border": {
-            "value": "{semantic.dark.brand.transparent16}",
+            "value": "{semantic.dark.brand.16}",
             "type": "color"
           },
           "icon": {
@@ -34,11 +34,11 @@
         },
         "success": {
           "body": {
-            "value": "{semantic.dark.success.transparent8}",
+            "value": "{semantic.dark.success.8}",
             "type": "color"
           },
           "border": {
-            "value": "{semantic.dark.success.transparent16}",
+            "value": "{semantic.dark.success.16}",
             "type": "color"
           },
           "icon": {
@@ -48,11 +48,11 @@
         },
         "info": {
           "body": {
-            "value": "{semantic.dark.info.transparent8}",
+            "value": "{semantic.dark.info.8}",
             "type": "color"
           },
           "border": {
-            "value": "{semantic.dark.info.transparent16}",
+            "value": "{semantic.dark.info.16}",
             "type": "color"
           },
           "icon": {
@@ -62,11 +62,11 @@
         },
         "warning": {
           "body": {
-            "value": "{semantic.dark.warning.transparent8}",
+            "value": "{semantic.dark.warning.8}",
             "type": "color"
           },
           "border": {
-            "value": "{semantic.dark.warning.transparent16}",
+            "value": "{semantic.dark.warning.16}",
             "type": "color"
           },
           "icon": {
@@ -76,11 +76,11 @@
         },
         "critical": {
           "body": {
-            "value": "{semantic.dark.critical.transparent8}",
+            "value": "{semantic.dark.critical.8}",
             "type": "color"
           },
           "border": {
-            "value": "{semantic.dark.critical.transparent16}",
+            "value": "{semantic.dark.critical.16}",
             "type": "color"
           },
           "icon": {
@@ -90,11 +90,11 @@
         },
         "draft": {
           "body": {
-            "value": "{semantic.dark.draft.transparent8}",
+            "value": "{semantic.dark.draft.8}",
             "type": "color"
           },
           "border": {
-            "value": "{semantic.dark.draft.transparent16}",
+            "value": "{semantic.dark.draft.16}",
             "type": "color"
           },
           "icon": {
@@ -136,11 +136,11 @@
             "type": "color"
           },
           "textHover": {
-            "value": "{semantic.dark.text.secondary}",
+            "value": "{semantic.dark.text.primary}",
             "type": "color"
           },
           "iconHover": {
-            "value": "{semantic.dark.icon.outlined.secondary}",
+            "value": "{semantic.dark.icon.outlined.primary}",
             "type": "color"
           },
           "textClick": {
@@ -296,7 +296,7 @@
             "type": "color"
           },
           "iconNormal": {
-            "value": "{semantic.dark.draft.primary}",
+            "value": "{semantic.dark.draft.secondary}",
             "type": "color"
           },
           "iconHover": {
@@ -338,7 +338,7 @@
       "badge": {
         "primary": {
           "body": {
-            "value": "{semantic.dark.primary.transparent8}",
+            "value": "{semantic.dark.primary.8}",
             "type": "color"
           },
           "icon": {
@@ -352,7 +352,7 @@
         },
         "brand": {
           "body": {
-            "value": "{semantic.dark.brand.transparent8}",
+            "value": "{semantic.dark.brand.8}",
             "type": "color"
           },
           "icon": {
@@ -366,7 +366,7 @@
         },
         "success": {
           "body": {
-            "value": "{semantic.dark.success.transparent8}",
+            "value": "{semantic.dark.success.8}",
             "type": "color"
           },
           "icon": {
@@ -380,7 +380,7 @@
         },
         "info": {
           "body": {
-            "value": "{semantic.dark.info.transparent8}",
+            "value": "{semantic.dark.info.8}",
             "type": "color"
           },
           "icon": {
@@ -394,7 +394,7 @@
         },
         "warning": {
           "body": {
-            "value": "{semantic.dark.warning.transparent8}",
+            "value": "{semantic.dark.warning.8}",
             "type": "color"
           },
           "icon": {
@@ -408,7 +408,7 @@
         },
         "critical": {
           "body": {
-            "value": "{semantic.dark.critical.transparent8}",
+            "value": "{semantic.dark.critical.8}",
             "type": "color"
           },
           "icon": {
@@ -422,7 +422,7 @@
         },
         "draft": {
           "body": {
-            "value": "{semantic.dark.draft.transparent8}",
+            "value": "{semantic.dark.draft.8}",
             "type": "color"
           },
           "icon": {
@@ -441,31 +441,31 @@
           "type": "color"
         },
         "bodyPrimary": {
-          "value": "{semantic.dark.primary.transparent12}",
+          "value": "{semantic.dark.primary.12}",
           "type": "color"
         },
         "bodyBrand": {
-          "value": "{semantic.dark.brand.transparent12}",
+          "value": "{semantic.dark.brand.12}",
           "type": "color"
         },
         "bodySuccess": {
-          "value": "{semantic.dark.success.transparent12}",
+          "value": "{semantic.dark.success.12}",
           "type": "color"
         },
         "bodyInfo": {
-          "value": "{semantic.dark.info.transparent12}",
+          "value": "{semantic.dark.info.12}",
           "type": "color"
         },
         "bodyWarning": {
-          "value": "{semantic.dark.warning.transparent12}",
+          "value": "{semantic.dark.warning.12}",
           "type": "color"
         },
         "bodyCritical": {
-          "value": "{semantic.dark.critical.transparent12}",
+          "value": "{semantic.dark.critical.12}",
           "type": "color"
         },
         "bodyDraft": {
-          "value": "{semantic.dark.draft.transparent12}",
+          "value": "{semantic.dark.draft.12}",
           "type": "color"
         }
       },
@@ -709,11 +709,11 @@
           },
           "brand": {
             "bodyHover": {
-              "value": "{semantic.dark.brand.transparent8}",
+              "value": "{semantic.dark.brand.8}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.brand.transparent12}",
+              "value": "{semantic.dark.brand.12}",
               "type": "color"
             },
             "text": {
@@ -727,11 +727,11 @@
           },
           "success": {
             "bodyHover": {
-              "value": "{semantic.dark.success.transparent8}",
+              "value": "{semantic.dark.success.8}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.success.transparent12}",
+              "value": "{semantic.dark.success.12}",
               "type": "color"
             },
             "text": {
@@ -745,11 +745,11 @@
           },
           "info": {
             "bodyHover": {
-              "value": "{semantic.dark.info.transparent8}",
+              "value": "{semantic.dark.info.8}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.info.transparent12}",
+              "value": "{semantic.dark.info.12}",
               "type": "color"
             },
             "text": {
@@ -763,11 +763,11 @@
           },
           "warning": {
             "bodyHover": {
-              "value": "{semantic.dark.warning.transparent8}",
+              "value": "{semantic.dark.warning.8}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.warning.transparent12}",
+              "value": "{semantic.dark.warning.12}",
               "type": "color"
             },
             "text": {
@@ -781,11 +781,11 @@
           },
           "critical": {
             "bodyHover": {
-              "value": "{semantic.dark.critical.transparent8}",
+              "value": "{semantic.dark.critical.8}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.critical.transparent12}",
+              "value": "{semantic.dark.critical.12}",
               "type": "color"
             },
             "text": {
@@ -799,11 +799,11 @@
           },
           "draft": {
             "bodyHover": {
-              "value": "{semantic.dark.draft.transparent8}",
+              "value": "{semantic.dark.draft.8}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.draft.transparent12}",
+              "value": "{semantic.dark.draft.12}",
               "type": "color"
             },
             "text": {
@@ -817,11 +817,11 @@
           },
           "primary": {
             "bodyHover": {
-              "value": "{semantic.dark.primary.transparent8}",
+              "value": "{semantic.dark.primary.8}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.primary.transparent12}",
+              "value": "{semantic.dark.primary.12}",
               "type": "color"
             },
             "text": {
@@ -837,15 +837,15 @@
         "tonned": {
           "brand": {
             "bodyNormal": {
-              "value": "{semantic.dark.brand.transparent8}",
+              "value": "{semantic.dark.brand.8}",
               "type": "color"
             },
             "bodyHover": {
-              "value": "{semantic.dark.brand.transparent12}",
+              "value": "{semantic.dark.brand.12}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.brand.transparent16}",
+              "value": "{semantic.dark.brand.16}",
               "type": "color"
             },
             "text": {
@@ -859,15 +859,15 @@
           },
           "success": {
             "bodyNormal": {
-              "value": "{semantic.dark.success.transparent8}",
+              "value": "{semantic.dark.success.8}",
               "type": "color"
             },
             "bodyHover": {
-              "value": "{semantic.dark.success.transparent12}",
+              "value": "{semantic.dark.success.12}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.success.transparent16}",
+              "value": "{semantic.dark.success.16}",
               "type": "color"
             },
             "text": {
@@ -881,15 +881,15 @@
           },
           "info": {
             "bodyNormal": {
-              "value": "{semantic.dark.info.transparent8}",
+              "value": "{semantic.dark.info.8}",
               "type": "color"
             },
             "bodyHover": {
-              "value": "{semantic.dark.info.transparent12}",
+              "value": "{semantic.dark.info.12}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.info.transparent16}",
+              "value": "{semantic.dark.info.16}",
               "type": "color"
             },
             "text": {
@@ -903,15 +903,15 @@
           },
           "warning": {
             "bodyNormal": {
-              "value": "{semantic.dark.warning.transparent8}",
+              "value": "{semantic.dark.warning.8}",
               "type": "color"
             },
             "bodyHover": {
-              "value": "{semantic.dark.warning.transparent12}",
+              "value": "{semantic.dark.warning.12}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.warning.transparent16}",
+              "value": "{semantic.dark.warning.16}",
               "type": "color"
             },
             "text": {
@@ -925,15 +925,15 @@
           },
           "critical": {
             "bodyNormal": {
-              "value": "{semantic.dark.critical.transparent8}",
+              "value": "{semantic.dark.critical.8}",
               "type": "color"
             },
             "bodyHover": {
-              "value": "{semantic.dark.critical.transparent12}",
+              "value": "{semantic.dark.critical.12}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.critical.transparent16}",
+              "value": "{semantic.dark.critical.16}",
               "type": "color"
             },
             "text": {
@@ -947,15 +947,15 @@
           },
           "draft": {
             "bodyNormal": {
-              "value": "{semantic.dark.draft.transparent8}",
+              "value": "{semantic.dark.draft.8}",
               "type": "color"
             },
             "bodyHover": {
-              "value": "{semantic.dark.draft.transparent12}",
+              "value": "{semantic.dark.draft.12}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.draft.transparent16}",
+              "value": "{semantic.dark.draft.16}",
               "type": "color"
             },
             "text": {
@@ -969,15 +969,15 @@
           },
           "primary": {
             "bodyNormal": {
-              "value": "{semantic.dark.primary.transparent4}",
+              "value": "{semantic.dark.primary.4}",
               "type": "color"
             },
             "bodyHover": {
-              "value": "{semantic.dark.primary.transparent8}",
+              "value": "{semantic.dark.primary.8}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.primary.transparent12}",
+              "value": "{semantic.dark.primary.12}",
               "type": "color"
             },
             "text": {
@@ -1001,11 +1001,11 @@
               "type": "color"
             },
             "textHover": {
-              "value": "{semantic.dark.text.secondary}",
+              "value": "{semantic.dark.text.primary}",
               "type": "color"
             },
             "iconHover": {
-              "value": "{semantic.dark.icon.outlined.secondary}",
+              "value": "{semantic.dark.icon.outlined.primary}",
               "type": "color"
             },
             "textClick": {
@@ -1203,11 +1203,11 @@
       },
       "divider": {
         "thin": {
-          "value": "{semantic.dark.constant.transparent12}",
+          "value": "{semantic.dark.primary.12}",
           "type": "color"
         },
         "fat": {
-          "value": "{semantic.dark.constant.transparent8}",
+          "value": "{semantic.dark.primary.8}",
           "type": "color"
         }
       },
@@ -1217,19 +1217,19 @@
           "type": "color"
         },
         "bodyDisabled": {
-          "value": "{semantic.dark.primary.transparent4}",
+          "value": "{semantic.dark.primary.4}",
           "type": "color"
         },
         "borderNormal": {
-          "value": "{semantic.dark.primary.transparent16}",
+          "value": "{semantic.dark.primary.16}",
           "type": "color"
         },
         "borderHover": {
-          "value": "{semantic.dark.primary.transparent24}",
+          "value": "{semantic.dark.primary.24}",
           "type": "color"
         },
         "borderClick": {
-          "value": "{semantic.dark.primary.transparent32}",
+          "value": "{semantic.dark.primary.32}",
           "type": "color"
         },
         "borderActive": {
@@ -1237,7 +1237,7 @@
           "type": "color"
         },
         "borderFilled": {
-          "value": "{semantic.dark.primary.transparent16}",
+          "value": "{semantic.dark.primary.16}",
           "type": "color"
         },
         "borderWarning": {
@@ -1245,11 +1245,11 @@
           "type": "color"
         },
         "borderDisabled": {
-          "value": "{semantic.dark.primary.transparent16}",
+          "value": "{semantic.dark.primary.16}",
           "type": "color"
         },
         "borderReadOnly": {
-          "value": "{semantic.dark.primary.transparent16}",
+          "value": "{semantic.dark.primary.16}",
           "type": "color"
         },
         "textPlaceholder": {
@@ -1308,11 +1308,11 @@
             "type": "color"
           },
           "bodyHover": {
-            "value": "{semantic.dark.primary.transparent4}",
+            "value": "{semantic.dark.primary.4}",
             "type": "color"
           },
           "bodyClick": {
-            "value": "{semantic.dark.primary.transparent8}",
+            "value": "{semantic.dark.primary.8}",
             "type": "color"
           }
         },
@@ -1330,11 +1330,11 @@
             "type": "color"
           },
           "bodyHover": {
-            "value": "{semantic.dark.brand.transparent8}",
+            "value": "{semantic.dark.brand.8}",
             "type": "color"
           },
           "bodyClick": {
-            "value": "{semantic.dark.brand.transparent12}",
+            "value": "{semantic.dark.brand.12}",
             "type": "color"
           }
         }
@@ -1384,7 +1384,7 @@
             "type": "color"
           },
           "border": {
-            "value": "{semantic.dark.brand.transparent16}",
+            "value": "{semantic.dark.brand.16}",
             "type": "color"
           },
           "icon": {
@@ -1398,7 +1398,7 @@
             "type": "color"
           },
           "border": {
-            "value": "{semantic.dark.success.transparent16}",
+            "value": "{semantic.dark.success.16}",
             "type": "color"
           },
           "icon": {
@@ -1412,7 +1412,7 @@
             "type": "color"
           },
           "border": {
-            "value": "{semantic.dark.info.transparent16}",
+            "value": "{semantic.dark.info.16}",
             "type": "color"
           },
           "icon": {
@@ -1426,11 +1426,11 @@
             "type": "color"
           },
           "border": {
-            "value": "{semantic.dark.warning.transparent16}",
+            "value": "{semantic.dark.warning.16}",
             "type": "color"
           },
           "icon": {
-            "value": "{semantic.dark.warning.primary}",
+            "value": "{semantic.dark.icon.outlined.warning}",
             "type": "color"
           }
         },
@@ -1440,11 +1440,11 @@
             "type": "color"
           },
           "border": {
-            "value": "{semantic.dark.critical.transparent16}",
+            "value": "{semantic.dark.critical.16}",
             "type": "color"
           },
           "icon": {
-            "value": "{semantic.dark.critical.primary}",
+            "value": "{semantic.dark.icon.outlined.critical}",
             "type": "color"
           }
         },
@@ -1454,11 +1454,11 @@
             "type": "color"
           },
           "border": {
-            "value": "{semantic.dark.draft.transparent16}",
+            "value": "{semantic.dark.draft.16}",
             "type": "color"
           },
           "icon": {
-            "value": "{semantic.dark.draft.primary}",
+            "value": "{semantic.dark.icon.outlined.draft}",
             "type": "color"
           }
         }
@@ -1480,15 +1480,15 @@
         },
         "inactive": {
           "bodyNormal": {
-            "value": "{semantic.dark.primary.transparent8}",
+            "value": "{semantic.dark.primary.8}",
             "type": "color"
           },
           "bodyHover": {
-            "value": "{semantic.dark.primary.transparent12}",
+            "value": "{semantic.dark.primary.12}",
             "type": "color"
           },
           "bodyClick": {
-            "value": "{semantic.dark.primary.transparent16}",
+            "value": "{semantic.dark.primary.16}",
             "type": "color"
           }
         }
@@ -1504,27 +1504,27 @@
             "type": "color"
           },
           "bodyNormal": {
-            "value": "{semantic.dark.elevation1.body}",
+            "value": "{semantic.dark.transparent.primary}",
             "type": "color"
           },
           "bodyHover": {
-            "value": "{semantic.dark.primary.transparent4}",
+            "value": "{semantic.dark.primary.4}",
             "type": "color"
           },
           "bodyClick": {
-            "value": "{semantic.dark.primary.transparent8}",
+            "value": "{semantic.dark.primary.8}",
             "type": "color"
           },
           "borderNormal": {
-            "value": "{semantic.dark.elevation1.borderNormal}",
+            "value": "{semantic.dark.elevation0.borderNormal}",
             "type": "color"
           },
           "borderHover": {
-            "value": "{semantic.dark.elevation1.borderHover}",
+            "value": "{semantic.dark.elevation0.borderHover}",
             "type": "color"
           },
           "borderClick": {
-            "value": "{semantic.dark.elevation1.borderClick}",
+            "value": "{semantic.dark.elevation0.borderClick}",
             "type": "color"
           }
         },
@@ -1538,15 +1538,15 @@
             "type": "color"
           },
           "bodyNormal": {
-            "value": "{semantic.dark.brand.transparent8}",
+            "value": "{semantic.dark.brand.8}",
             "type": "color"
           },
           "bodyHover": {
-            "value": "{semantic.dark.brand.transparent12}",
+            "value": "{semantic.dark.brand.12}",
             "type": "color"
           },
           "bodyClick": {
-            "value": "{semantic.dark.brand.transparent16}",
+            "value": "{semantic.dark.brand.16}",
             "type": "color"
           },
           "borderNormal": {
@@ -1594,19 +1594,19 @@
             "type": "color"
           },
           "bodyNormal": {
-            "value": "{semantic.dark.primary.transparent24}",
+            "value": "{semantic.dark.primary.24}",
             "type": "color"
           },
           "bodyHover": {
-            "value": "{semantic.dark.primary.transparent32}",
+            "value": "{semantic.dark.primary.32}",
             "type": "color"
           },
           "bodyClick": {
-            "value": "{semantic.dark.primary.transparent40}",
+            "value": "{semantic.dark.primary.40}",
             "type": "color"
           },
           "bodyDisabled": {
-            "value": "{semantic.dark.primary.transparent16}",
+            "value": "{semantic.dark.primary.16}",
             "type": "color"
           },
           "bodyWarning": {
@@ -1626,7 +1626,7 @@
             "type": "color"
           },
           "borderDisabled": {
-            "value": "{semantic.dark.brand.transparent40}",
+            "value": "{semantic.dark.brand.40}",
             "type": "color"
           }
         },
@@ -1673,19 +1673,19 @@
               "type": "color"
             },
             "bodyNormal": {
-              "value": "{semantic.dark.primary.transparent8}",
+              "value": "{semantic.dark.primary.8}",
               "type": "color"
             },
             "bodyHover": {
-              "value": "{semantic.dark.primary.transparent12}",
+              "value": "{semantic.dark.primary.12}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.primary.transparent16}",
+              "value": "{semantic.dark.primary.16}",
               "type": "color"
             },
             "bodyDisabled": {
-              "value": "{semantic.dark.primary.transparent4}",
+              "value": "{semantic.dark.primary.4}",
               "type": "color"
             }
           },
@@ -1747,11 +1747,11 @@
               "type": "color"
             },
             "bodyHover": {
-              "value": "{semantic.dark.primary.transparent8}",
+              "value": "{semantic.dark.primary.8}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.primary.transparent12}",
+              "value": "{semantic.dark.primary.12}",
               "type": "color"
             },
             "bodyDisabled": {
@@ -1769,7 +1769,7 @@
               "type": "color"
             },
             "textDisabled": {
-              "value": "{semantic.dark.brand.transparent40}",
+              "value": "{semantic.dark.brand.40}",
               "type": "color"
             },
             "iconPrimary": {
@@ -1785,11 +1785,11 @@
               "type": "color"
             },
             "bodyHover": {
-              "value": "{semantic.dark.brand.transparent8}",
+              "value": "{semantic.dark.brand.8}",
               "type": "color"
             },
             "bodyClick": {
-              "value": "{semantic.dark.brand.transparent12}",
+              "value": "{semantic.dark.brand.12}",
               "type": "color"
             },
             "bodyDisabled": {
@@ -1797,7 +1797,7 @@
               "type": "color"
             },
             "border": {
-              "value": "{semantic.dark.brand.secondary}",
+              "value": "{semantic.dark.brand.primary}",
               "type": "color"
             }
           }
@@ -1805,7 +1805,7 @@
       },
       "hint": {
         "body": {
-          "value": "{semantic.dark.elevation1.filled.primary.bodyNormal}",
+          "value": "{semantic.dark.primary.primary}",
           "type": "color"
         },
         "title": {
@@ -1823,7 +1823,7 @@
       },
       "tooltip": {
         "body": {
-          "value": "{semantic.dark.elevation1.filled.primary.bodyNormal}",
+          "value": "{semantic.dark.primary.primary}",
           "type": "color"
         },
         "text": {
