@@ -101,31 +101,31 @@
       },
       "brand": {
         "4": {
-          "value": "hsla({core.palette.omegaBlue.400}, 0.04)",
+          "value": "hsla({core.palette.omegaBlue.500}, 0.04)",
           "type": "color"
         },
         "8": {
-          "value": "hsla({core.palette.omegaBlue.400}, 0.08)",
+          "value": "hsla({core.palette.omegaBlue.500}, 0.08)",
           "type": "color"
         },
         "12": {
-          "value": "hsla({core.palette.omegaBlue.400}, 0.12)",
+          "value": "hsla({core.palette.omegaBlue.500}, 0.12)",
           "type": "color"
         },
         "16": {
-          "value": "hsla({core.palette.omegaBlue.400}, 0.16)",
+          "value": "hsla({core.palette.omegaBlue.500}, 0.16)",
           "type": "color"
         },
         "24": {
-          "value": "hsla({core.palette.omegaBlue.400}, 0.24)",
+          "value": "hsla({core.palette.omegaBlue.500}, 0.24)",
           "type": "color"
         },
         "32": {
-          "value": "hsla({core.palette.omegaBlue.400}, 0.32)",
+          "value": "hsla({core.palette.omegaBlue.500}, 0.32)",
           "type": "color"
         },
         "40": {
-          "value": "hsla({core.palette.omegaBlue.400}, 0.40)",
+          "value": "hsla({core.palette.omegaBlue.500}, 0.40)",
           "type": "color"
         },
         "primary": {
@@ -143,211 +143,211 @@
       },
       "success": {
         "4": {
-          "value": "hsla({core.palette.nebulaHerbal.400}, 0.04)",
+          "value": "hsla({core.palette.nebulaHerbal.500}, 0.04)",
           "type": "color"
         },
         "8": {
-          "value": "hsla({core.palette.nebulaHerbal.400}, 0.08)",
+          "value": "hsla({core.palette.nebulaHerbal.500}, 0.08)",
           "type": "color"
         },
         "12": {
-          "value": "hsla({core.palette.nebulaHerbal.400}, 0.12)",
+          "value": "hsla({core.palette.nebulaHerbal.500}, 0.12)",
           "type": "color"
         },
         "16": {
-          "value": "hsla({core.palette.nebulaHerbal.400}, 0.16)",
+          "value": "hsla({core.palette.nebulaHerbal.500}, 0.16)",
           "type": "color"
         },
         "24": {
-          "value": "hsla({core.palette.nebulaHerbal.400}, 0.24)",
+          "value": "hsla({core.palette.nebulaHerbal.500}, 0.24)",
           "type": "color"
         },
         "32": {
-          "value": "hsla({core.palette.nebulaHerbal.400}, 0.32)",
+          "value": "hsla({core.palette.nebulaHerbal.500}, 0.32)",
           "type": "color"
         },
         "40": {
-          "value": "hsla({core.palette.nebulaHerbal.400}, 0.40)",
+          "value": "hsla({core.palette.nebulaHerbal.500}, 0.40)",
           "type": "color"
         },
         "primary": {
-          "value": "hsla({core.palette.nebulaHerbal.400}, 1)",
-          "type": "color"
-        },
-        "secondary": {
           "value": "hsla({core.palette.nebulaHerbal.500}, 1)",
           "type": "color"
         },
-        "tertiary": {
+        "secondary": {
           "value": "hsla({core.palette.nebulaHerbal.600}, 1)",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "hsla({core.palette.nebulaHerbal.700}, 1)",
           "type": "color"
         }
       },
       "info": {
         "4": {
-          "value": "hsla({core.palette.galaxyPurple.400}, 0.04)",
+          "value": "hsla({core.palette.galaxyPurple.500}, 0.04)",
           "type": "color"
         },
         "8": {
-          "value": "hsla({core.palette.galaxyPurple.400}, 0.08)",
+          "value": "hsla({core.palette.galaxyPurple.500}, 0.08)",
           "type": "color"
         },
         "12": {
-          "value": "hsla({core.palette.galaxyPurple.400}, 0.12)",
+          "value": "hsla({core.palette.galaxyPurple.500}, 0.12)",
           "type": "color"
         },
         "16": {
-          "value": "hsla({core.palette.galaxyPurple.400}, 0.16)",
+          "value": "hsla({core.palette.galaxyPurple.500}, 0.16)",
           "type": "color"
         },
         "24": {
-          "value": "hsla({core.palette.galaxyPurple.400}, 0.24)",
+          "value": "hsla({core.palette.galaxyPurple.500}, 0.24)",
           "type": "color"
         },
         "32": {
-          "value": "hsla({core.palette.galaxyPurple.400}, 0.32)",
+          "value": "hsla({core.palette.galaxyPurple.500}, 0.32)",
           "type": "color"
         },
         "40": {
-          "value": "hsla({core.palette.galaxyPurple.400}, 0.40)",
+          "value": "hsla({core.palette.galaxyPurple.500}, 0.40)",
           "type": "color"
         },
         "primary": {
-          "value": "hsla({core.palette.galaxyPurple.400}, 1)",
-          "type": "color"
-        },
-        "secondary": {
           "value": "hsla({core.palette.galaxyPurple.500}, 1)",
           "type": "color"
         },
-        "tertiary": {
+        "secondary": {
           "value": "hsla({core.palette.galaxyPurple.600}, 1)",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "hsla({core.palette.galaxyPurple.700}, 1)",
           "type": "color"
         }
       },
       "warning": {
         "4": {
-          "value": "hsla({core.palette.venusOrange.400}, 0.04)",
+          "value": "hsla({core.palette.venusOrange.500}, 0.04)",
           "type": "color"
         },
         "8": {
-          "value": "hsla({core.palette.venusOrange.400}, 0.08)",
+          "value": "hsla({core.palette.venusOrange.500}, 0.08)",
           "type": "color"
         },
         "12": {
-          "value": "hsla({core.palette.venusOrange.400}, 0.12)",
+          "value": "hsla({core.palette.venusOrange.500}, 0.12)",
           "type": "color"
         },
         "16": {
-          "value": "hsla({core.palette.venusOrange.400}, 0.16)",
+          "value": "hsla({core.palette.venusOrange.500}, 0.16)",
           "type": "color"
         },
         "24": {
-          "value": "hsla({core.palette.venusOrange.400}, 0.24)",
+          "value": "hsla({core.palette.venusOrange.500}, 0.24)",
           "type": "color"
         },
         "32": {
-          "value": "hsla({core.palette.venusOrange.400}, 0.32)",
+          "value": "hsla({core.palette.venusOrange.500}, 0.32)",
           "type": "color"
         },
         "40": {
-          "value": "hsla({core.palette.venusOrange.400}, 0.40)",
+          "value": "hsla({core.palette.venusOrange.500}, 0.40)",
           "type": "color"
         },
         "primary": {
-          "value": "hsla({core.palette.venusOrange.400}, 1)",
-          "type": "color"
-        },
-        "secondary": {
           "value": "hsla({core.palette.venusOrange.500}, 1)",
           "type": "color"
         },
-        "tertiary": {
+        "secondary": {
           "value": "hsla({core.palette.venusOrange.600}, 1)",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "hsla({core.palette.venusOrange.700}, 1)",
           "type": "color"
         }
       },
       "critical": {
         "4": {
-          "value": "hsla({core.palette.martianRed.400}, 0.04)",
+          "value": "hsla({core.palette.martianRed.500}, 0.04)",
           "type": "color"
         },
         "8": {
-          "value": "hsla({core.palette.martianRed.400}, 0.08)",
+          "value": "hsla({core.palette.martianRed.500}, 0.08)",
           "type": "color"
         },
         "12": {
-          "value": "hsla({core.palette.martianRed.400}, 0.12)",
+          "value": "hsla({core.palette.martianRed.500}, 0.12)",
           "type": "color"
         },
         "16": {
-          "value": "hsla({core.palette.martianRed.400}, 0.16)",
+          "value": "hsla({core.palette.martianRed.500}, 0.16)",
           "type": "color"
         },
         "24": {
-          "value": "hsla({core.palette.martianRed.400}, 0.24)",
+          "value": "hsla({core.palette.martianRed.500}, 0.24)",
           "type": "color"
         },
         "32": {
-          "value": "hsla({core.palette.martianRed.400}, 0.32)",
+          "value": "hsla({core.palette.martianRed.500}, 0.32)",
           "type": "color"
         },
         "40": {
-          "value": "hsla({core.palette.martianRed.400}, 0.40)",
+          "value": "hsla({core.palette.martianRed.500}, 0.40)",
           "type": "color"
         },
         "primary": {
-          "value": "hsla({core.palette.martianRed.400}, 1)",
-          "type": "color"
-        },
-        "secondary": {
           "value": "hsla({core.palette.martianRed.500}, 1)",
           "type": "color"
         },
-        "tertiary": {
+        "secondary": {
           "value": "hsla({core.palette.martianRed.600}, 1)",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "hsla({core.palette.martianRed.700}, 1)",
           "type": "color"
         }
       },
       "draft": {
         "4": {
-          "value": "hsla({core.palette.titanGray.400}, 0.04)",
+          "value": "hsla({core.palette.titanGray.500}, 0.04)",
           "type": "color"
         },
         "8": {
-          "value": "hsla({core.palette.titanGray.400}, 0.08)",
+          "value": "hsla({core.palette.titanGray.500}, 0.08)",
           "type": "color"
         },
         "12": {
-          "value": "hsla({core.palette.titanGray.400}, 0.12)",
+          "value": "hsla({core.palette.titanGray.500}, 0.12)",
           "type": "color"
         },
         "16": {
-          "value": "hsla({core.palette.titanGray.400}, 0.16)",
+          "value": "hsla({core.palette.titanGray.500}, 0.16)",
           "type": "color"
         },
         "24": {
-          "value": "hsla({core.palette.titanGray.400}, 0.24)",
+          "value": "hsla({core.palette.titanGray.500}, 0.24)",
           "type": "color"
         },
         "32": {
-          "value": "hsla({core.palette.titanGray.400}, 0.32)",
+          "value": "hsla({core.palette.titanGray.500}, 0.32)",
           "type": "color"
         },
         "40": {
-          "value": "hsla({core.palette.titanGray.400}, 0.40)",
+          "value": "hsla({core.palette.titanGray.500}, 0.40)",
           "type": "color"
         },
         "primary": {
-          "value": "hsla({core.palette.titanGray.400}, 1)",
-          "type": "color"
-        },
-        "secondary": {
           "value": "hsla({core.palette.titanGray.500}, 1)",
           "type": "color"
         },
-        "tertiary": {
+        "secondary": {
           "value": "hsla({core.palette.titanGray.600}, 1)",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "hsla({core.palette.titanGray.700}, 1)",
           "type": "color"
         }
       },
