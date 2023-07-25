@@ -506,8 +506,16 @@
         }
       },
       "elevation1": {
-        "body": {
+        "bodyNormal": {
           "value": "{semantic.light.constant.primary}",
+          "type": "color"
+        },
+        "bodyHover": {
+          "value": "hsla({core.palette.omegaBlue.0}, 1)",
+          "type": "color"
+        },
+        "bodyClick": {
+          "value": "hsla({core.palette.omegaBlue.50}, 1)",
           "type": "color"
         },
         "borderNormal": {

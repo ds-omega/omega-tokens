@@ -506,8 +506,16 @@
         }
       },
       "elevation1": {
-        "body": {
-          "value": "{semantic.dark.transparent.primary}",
+        "bodyNormal": {
+          "value": "hsla({core.palette.spaceGraphite.600}, 1)",
+          "type": "color"
+        },
+        "bodyHover": {
+          "value": "hsla({core.palette.spaceGraphite.500}, 1)",
+          "type": "color"
+        },
+        "bodyClick": {
+          "value": "hsla({core.palette.spaceGraphite.700}, 1)",
           "type": "color"
         },
         "borderNormal": {
