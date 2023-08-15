@@ -860,11 +860,11 @@
     },
     "blackWhite": {
       "black": {
-        "value": "0, 0%, 0%",
+        "value": "hsla({core.palette.blackWhite.black}, 1)",
         "type": "color"
       },
       "white": {
-        "value": "0, 0%, 100%",
+        "value": "hsla({core.palette.blackWhite.white}, 1)",
         "type": "color"
       }
     }
