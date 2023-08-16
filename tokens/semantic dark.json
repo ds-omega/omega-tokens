@@ -632,6 +632,12 @@
           "value": "hsla({core.palette.titanGray.800}, 1)",
           "type": "color"
         }
+      },
+      "overlay": {
+        "primary": {
+          "value": "hsla({core.palette.blackWhite.black}, 0.8)",
+          "type": "color"
+        }
       }
     }
   }
