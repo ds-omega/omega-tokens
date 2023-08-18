@@ -533,11 +533,11 @@
       },
       "background0": {
         "primary": {
-          "value": "hsla({core.palette.blackWhite.white}, 1)",
+          "value": "hsla({core.palette.titanGray.0}, 1)",
           "type": "color"
         },
         "secondary": {
-          "value": "hsla({core.palette.titanGray.0}, 1)",
+          "value": "hsla({core.palette.blackWhite.white}, 1)",
           "type": "color"
         },
         "brand": {
