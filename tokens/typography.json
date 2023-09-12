@@ -146,7 +146,7 @@
     },
     "Body XL": {
       "Tight": {
-        "Regular": {
+        "Normal": {
           "value": {
             "fontFamilies": "{fontFamilies.body}",
             "fontWeights": "{fontWeights.bodyRegular}",
@@ -199,7 +199,7 @@
         }
       },
       "Paragraph": {
-        "Regular": {
+        "Normal": {
           "value": {
             "fontFamilies": "{fontFamilies.body}",
             "fontWeights": "{fontWeights.bodyRegular}",
@@ -254,7 +254,7 @@
     },
     "Body L": {
       "Tight": {
-        "Regular": {
+        "Normal": {
           "value": {
             "fontFamilies": "{fontFamilies.body}",
             "fontWeights": "{fontWeights.bodyRegular}",
@@ -307,7 +307,7 @@
         }
       },
       "Paragraph": {
-        "Regular": {
+        "Normal": {
           "value": {
             "fontFamilies": "{fontFamilies.body}",
             "fontWeights": "{fontWeights.bodyRegular}",
@@ -362,7 +362,7 @@
     },
     "Body M": {
       "Tight": {
-        "Regular": {
+        "Normal": {
           "value": {
             "fontFamilies": "{fontFamilies.body}",
             "fontWeights": "{fontWeights.bodyRegular}",
@@ -415,7 +415,7 @@
         }
       },
       "Paragraph": {
-        "Regular": {
+        "Normal": {
           "value": {
             "fontFamilies": "{fontFamilies.body}",
             "fontWeights": "{fontWeights.bodyRegular}",
@@ -470,7 +470,7 @@
     },
     "Body S": {
       "Tight": {
-        "Regular": {
+        "Normal": {
           "value": {
             "fontFamilies": "{fontFamilies.body}",
             "fontWeights": "{fontWeights.bodyRegular}",
@@ -523,7 +523,7 @@
         }
       },
       "Paragraph": {
-        "Regular": {
+        "Normal": {
           "value": {
             "fontFamilies": "{fontFamilies.body}",
             "fontWeights": "{fontWeights.bodyRegular}",
