@@ -1267,6 +1267,42 @@
     }
   },
   "fontSizes": {
+    "x1": {
+      "value": "{core.typography.100.fontSize}",
+      "type": "fontSizes"
+    },
+    "x2": {
+      "value": "{core.typography.200.fontSize}",
+      "type": "fontSizes"
+    },
+    "x3": {
+      "value": "{core.typography.300.fontSize}",
+      "type": "fontSizes"
+    },
+    "x4": {
+      "value": "{core.typography.400.fontSize}",
+      "type": "fontSizes"
+    },
+    "x5": {
+      "value": "{core.typography.500.fontSize}",
+      "type": "fontSizes"
+    },
+    "x6": {
+      "value": "{core.typography.600.fontSize}",
+      "type": "fontSizes"
+    },
+    "x7": {
+      "value": "{core.typography.700.fontSize}",
+      "type": "fontSizes"
+    },
+    "x8": {
+      "value": "{core.typography.800.fontSize}",
+      "type": "fontSizes"
+    },
+    "x9": {
+      "value": "{core.typography.900.fontSize}",
+      "type": "fontSizes"
+    },
     "displayXL": {
       "value": "{core.typography.900.fontSize}",
       "type": "fontSizes"
@@ -1325,6 +1361,42 @@
     }
   },
   "lineHeights": {
+    "x1": {
+      "value": "{core.typography.100.lineHeight}",
+      "type": "lineHeights"
+    },
+    "x2": {
+      "value": "{core.typography.200.lineHeight}",
+      "type": "lineHeights"
+    },
+    "x3": {
+      "value": "{core.typography.300.lineHeight}",
+      "type": "lineHeights"
+    },
+    "x4": {
+      "value": "{core.typography.400.lineHeight}",
+      "type": "lineHeights"
+    },
+    "x5": {
+      "value": "{core.typography.500.lineHeight}",
+      "type": "lineHeights"
+    },
+    "x6": {
+      "value": "{core.typography.600.lineHeight}",
+      "type": "lineHeights"
+    },
+    "x7": {
+      "value": "{core.typography.700.lineHeight}",
+      "type": "lineHeights"
+    },
+    "x8": {
+      "value": "{core.typography.800.lineHeight}",
+      "type": "lineHeights"
+    },
+    "x9": {
+      "value": "{core.typography.900.lineHeight}",
+      "type": "lineHeights"
+    },
     "bodyXL": {
       "tight": {
         "value": "{core.typography.400.lineHeight}+{core.xBase}",
