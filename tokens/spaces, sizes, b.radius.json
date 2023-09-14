@@ -469,23 +469,23 @@
       },
       "bodyM": {
         "Tiny": {
-          "value": "{core.borderRadius.100}",
+          "value": "{core.borderRadius.200}",
           "type": "borderRadius"
         },
         "Small": {
-          "value": "{core.borderRadius.200}",
+          "value": "{core.borderRadius.300}",
           "type": "borderRadius"
         },
         "Medium": {
-          "value": "{core.borderRadius.200}",
+          "value": "{core.borderRadius.300}",
           "type": "borderRadius"
         },
         "Large": {
-          "value": "{core.borderRadius.200}",
+          "value": "{core.borderRadius.400}",
           "type": "borderRadius"
         },
         "Huge": {
-          "value": "{core.borderRadius.300}",
+          "value": "{core.borderRadius.400}",
           "type": "borderRadius"
         }
       },
