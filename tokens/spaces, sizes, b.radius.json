@@ -7,313 +7,313 @@
       },
       "bodyS": {
         "Tiny": {
-          "value": "{lineHeights.bodyS.tight}-{core.xBase}*3",
+          "value": "{lineHeights.semantic.bodyS.tight}-{core.xBase}*3",
           "type": "spacing"
         },
         "Small": {
-          "value": "{lineHeights.bodyS.tight}-{core.xBase}*2",
+          "value": "{lineHeights.semantic.bodyS.tight}-{core.xBase}*2",
           "type": "spacing"
         },
         "Medium": {
-          "value": "{lineHeights.bodyS.tight}-{core.xBase}",
+          "value": "{lineHeights.semantic.bodyS.tight}-{core.xBase}",
           "type": "spacing"
         },
         "Large": {
-          "value": "{lineHeights.bodyS.tight}",
+          "value": "{lineHeights.semantic.bodyS.tight}",
           "type": "spacing"
         },
         "Huge": {
-          "value": "{lineHeights.bodyS.tight}+{core.xBase}",
+          "value": "{lineHeights.semantic.bodyS.tight}+{core.xBase}",
           "type": "spacing"
         },
         "Paragraph": {
-          "value": "{lineHeights.bodyS.paragraph}",
+          "value": "{lineHeights.semantic.bodyS.paragraph}",
           "type": "spacing"
         }
       },
       "bodyM": {
         "Tiny": {
-          "value": "{lineHeights.bodyM.tight}-{core.xBase}*3",
+          "value": "{lineHeights.semantic.bodyM.tight}-{core.xBase}*3",
           "type": "spacing"
         },
         "Small": {
-          "value": "{lineHeights.bodyM.tight}-{core.xBase}*2",
+          "value": "{lineHeights.semantic.bodyM.tight}-{core.xBase}*2",
           "type": "spacing"
         },
         "Medium": {
-          "value": "{lineHeights.bodyM.tight}-{core.xBase}",
+          "value": "{lineHeights.semantic.bodyM.tight}-{core.xBase}",
           "type": "spacing"
         },
         "Large": {
-          "value": "{lineHeights.bodyM.tight}",
+          "value": "{lineHeights.semantic.bodyM.tight}",
           "type": "spacing"
         },
         "Huge": {
-          "value": "{lineHeights.bodyM.tight}+{core.xBase}",
+          "value": "{lineHeights.semantic.bodyM.tight}+{core.xBase}",
           "type": "spacing"
         },
         "Paragraph": {
-          "value": "{lineHeights.bodyM.paragraph}",
+          "value": "{lineHeights.semantic.bodyM.paragraph}",
           "type": "spacing"
         }
       },
       "bodyL": {
         "Tiny": {
-          "value": "{lineHeights.bodyL.tight}-{core.xBase}*3",
+          "value": "{lineHeights.semantic.bodyL.tight}-{core.xBase}*3",
           "type": "spacing"
         },
         "Small": {
-          "value": "{lineHeights.bodyL.tight}-{core.xBase}*2",
+          "value": "{lineHeights.semantic.bodyL.tight}-{core.xBase}*2",
           "type": "spacing"
         },
         "Medium": {
-          "value": "{lineHeights.bodyL.tight}-{core.xBase}",
+          "value": "{lineHeights.semantic.bodyL.tight}-{core.xBase}",
           "type": "spacing"
         },
         "Large": {
-          "value": "{lineHeights.bodyL.tight}",
+          "value": "{lineHeights.semantic.bodyL.tight}",
           "type": "spacing"
         },
         "Huge": {
-          "value": "{lineHeights.bodyL.tight}+{core.xBase}",
+          "value": "{lineHeights.semantic.bodyL.tight}+{core.xBase}",
           "type": "spacing"
         },
         "Paragraph": {
-          "value": "{lineHeights.bodyL.paragraph}",
+          "value": "{lineHeights.semantic.bodyL.paragraph}",
           "type": "spacing"
         }
       },
       "bodyXL": {
         "Tiny": {
-          "value": "{lineHeights.bodyXL.tight}-{core.xBase}*3",
+          "value": "{lineHeights.semantic.bodyXL.tight}-{core.xBase}*3",
           "type": "spacing"
         },
         "Small": {
-          "value": "{lineHeights.bodyXL.tight}-{core.xBase}*2",
+          "value": "{lineHeights.semantic.bodyXL.tight}-{core.xBase}*2",
           "type": "spacing"
         },
         "Medium": {
-          "value": "{lineHeights.bodyXL.tight}-{core.xBase}",
+          "value": "{lineHeights.semantic.bodyXL.tight}-{core.xBase}",
           "type": "spacing"
         },
         "Large": {
-          "value": "{lineHeights.bodyXL.tight}",
+          "value": "{lineHeights.semantic.bodyXL.tight}",
           "type": "spacing"
         },
         "Huge": {
-          "value": "{lineHeights.bodyXL.tight}+{core.xBase}",
+          "value": "{lineHeights.semantic.bodyXL.tight}+{core.xBase}",
           "type": "spacing"
         },
         "Paragraph": {
-          "value": "{lineHeights.bodyXL.paragraph}",
+          "value": "{lineHeights.semantic.bodyXL.paragraph}",
           "type": "spacing"
         }
       },
       "headlineS": {
         "Tiny": {
-          "value": "{lineHeights.headlineS}-{core.xBase}*3",
+          "value": "{lineHeights.semantic.headlineS}-{core.xBase}*3",
           "type": "spacing"
         },
         "Small": {
-          "value": "{lineHeights.headlineS}-{core.xBase}*2",
+          "value": "{lineHeights.semantic.headlineS}-{core.xBase}*2",
           "type": "spacing"
         },
         "Medium": {
-          "value": "{lineHeights.headlineS}-{core.xBase}",
+          "value": "{lineHeights.semantic.headlineS}-{core.xBase}",
           "type": "spacing"
         },
         "Large": {
-          "value": "{lineHeights.headlineS}",
+          "value": "{lineHeights.semantic.headlineS}",
           "type": "spacing"
         },
         "Huge": {
-          "value": "{lineHeights.headlineS}+{core.xBase}",
+          "value": "{lineHeights.semantic.headlineS}+{core.xBase}",
           "type": "spacing"
         },
         "Paragraph": {
-          "value": "{lineHeights.headlineS}",
+          "value": "{lineHeights.semantic.headlineS}",
           "type": "spacing"
         }
       },
       "headlineM": {
         "Tiny": {
-          "value": "{lineHeights.headlineM}-{core.xBase}*3",
+          "value": "{lineHeights.semantic.headlineM}-{core.xBase}*3",
           "type": "spacing"
         },
         "Small": {
-          "value": "{lineHeights.headlineM}-{core.xBase}*2",
+          "value": "{lineHeights.semantic.headlineM}-{core.xBase}*2",
           "type": "spacing"
         },
         "Medium": {
-          "value": "{lineHeights.headlineM}-{core.xBase}",
+          "value": "{lineHeights.semantic.headlineM}-{core.xBase}",
           "type": "spacing"
         },
         "Large": {
-          "value": "{lineHeights.headlineM}",
+          "value": "{lineHeights.semantic.headlineM}",
           "type": "spacing"
         },
         "Huge": {
-          "value": "{lineHeights.headlineM}+{core.xBase}",
+          "value": "{lineHeights.semantic.headlineM}+{core.xBase}",
           "type": "spacing"
         },
         "Paragraph": {
-          "value": "{lineHeights.headlineM}",
+          "value": "{lineHeights.semantic.headlineM}",
           "type": "spacing"
         }
       },
       "headlineL": {
         "Tiny": {
-          "value": "{lineHeights.headlineL}-{core.xBase}*3",
+          "value": "{lineHeights.semantic.headlineL}-{core.xBase}*3",
           "type": "spacing"
         },
         "Small": {
-          "value": "{lineHeights.headlineL}-{core.xBase}*2",
+          "value": "{lineHeights.semantic.headlineL}-{core.xBase}*2",
           "type": "spacing"
         },
         "Medium": {
-          "value": "{lineHeights.headlineL}-{core.xBase}",
+          "value": "{lineHeights.semantic.headlineL}-{core.xBase}",
           "type": "spacing"
         },
         "Large": {
-          "value": "{lineHeights.headlineL}",
+          "value": "{lineHeights.semantic.headlineL}",
           "type": "spacing"
         },
         "Huge": {
-          "value": "{lineHeights.headlineL}+{core.xBase}",
+          "value": "{lineHeights.semantic.headlineL}+{core.xBase}",
           "type": "spacing"
         },
         "Paragraph": {
-          "value": "{lineHeights.headlineL}",
+          "value": "{lineHeights.semantic.headlineL}",
           "type": "spacing"
         }
       },
       "headlineXL": {
         "Tiny": {
-          "value": "{lineHeights.headlineXL}-{core.xBase}*3",
+          "value": "{lineHeights.semantic.headlineXL}-{core.xBase}*3",
           "type": "spacing"
         },
         "Small": {
-          "value": "{lineHeights.headlineXL}-{core.xBase}*2",
+          "value": "{lineHeights.semantic.headlineXL}-{core.xBase}*2",
           "type": "spacing"
         },
         "Medium": {
-          "value": "{lineHeights.headlineXL}-{core.xBase}",
+          "value": "{lineHeights.semantic.headlineXL}-{core.xBase}",
           "type": "spacing"
         },
         "Large": {
-          "value": "{lineHeights.headlineXL}",
+          "value": "{lineHeights.semantic.headlineXL}",
           "type": "spacing"
         },
         "Huge": {
-          "value": "{lineHeights.headlineXL}+{core.xBase}",
+          "value": "{lineHeights.semantic.headlineXL}+{core.xBase}",
           "type": "spacing"
         },
         "Paragraph": {
-          "value": "{lineHeights.headlineXL}",
+          "value": "{lineHeights.semantic.headlineXL}",
           "type": "spacing"
         }
       },
       "displayS": {
         "Tiny": {
-          "value": "{lineHeights.displayS}-{core.xBase}*3",
+          "value": "{lineHeights.semantic.displayS}-{core.xBase}*3",
           "type": "spacing"
         },
         "Small": {
-          "value": "{lineHeights.displayS}-{core.xBase}*2",
+          "value": "{lineHeights.semantic.displayS}-{core.xBase}*2",
           "type": "spacing"
         },
         "Medium": {
-          "value": "{lineHeights.displayS}-{core.xBase}",
+          "value": "{lineHeights.semantic.displayS}-{core.xBase}",
           "type": "spacing"
         },
         "Large": {
-          "value": "{lineHeights.displayS}",
+          "value": "{lineHeights.semantic.displayS}",
           "type": "spacing"
         },
         "Huge": {
-          "value": "{lineHeights.displayS}+{core.xBase}",
+          "value": "{lineHeights.semantic.displayS}+{core.xBase}",
           "type": "spacing"
         },
         "Paragraph": {
-          "value": "{lineHeights.displayS}",
+          "value": "{lineHeights.semantic.displayS}",
           "type": "spacing"
         }
       },
       "displayM": {
         "Tiny": {
-          "value": "{lineHeights.displayM}-{core.xBase}*3",
+          "value": "{lineHeights.semantic.displayM}-{core.xBase}*3",
           "type": "spacing"
         },
         "Small": {
-          "value": "{lineHeights.displayM}-{core.xBase}*2",
+          "value": "{lineHeights.semantic.displayM}-{core.xBase}*2",
           "type": "spacing"
         },
         "Medium": {
-          "value": "{lineHeights.displayM}-{core.xBase}",
+          "value": "{lineHeights.semantic.displayM}-{core.xBase}",
           "type": "spacing"
         },
         "Large": {
-          "value": "{lineHeights.displayM}",
+          "value": "{lineHeights.semantic.displayM}",
           "type": "spacing"
         },
         "Huge": {
-          "value": "{lineHeights.displayM}+{core.xBase}",
+          "value": "{lineHeights.semantic.displayM}+{core.xBase}",
           "type": "spacing"
         },
         "Paragraph": {
-          "value": "{lineHeights.displayM}",
+          "value": "{lineHeights.semantic.displayM}",
           "type": "spacing"
         }
       },
       "displayL": {
         "Tiny": {
-          "value": "{lineHeights.displayL}-{core.xBase}*3",
+          "value": "{lineHeights.semantic.displayL}-{core.xBase}*3",
           "type": "spacing"
         },
         "Small": {
-          "value": "{lineHeights.displayL}-{core.xBase}*2",
+          "value": "{lineHeights.semantic.displayL}-{core.xBase}*2",
           "type": "spacing"
         },
         "Medium": {
-          "value": "{lineHeights.displayL}-{core.xBase}",
+          "value": "{lineHeights.semantic.displayL}-{core.xBase}",
           "type": "spacing"
         },
         "Large": {
-          "value": "{lineHeights.displayL}",
+          "value": "{lineHeights.semantic.displayL}",
           "type": "spacing"
         },
         "Huge": {
-          "value": "{lineHeights.displayL}+{core.xBase}",
+          "value": "{lineHeights.semantic.displayL}+{core.xBase}",
           "type": "spacing"
         },
         "Paragraph": {
-          "value": "{lineHeights.displayL}",
+          "value": "{lineHeights.semantic.displayL}",
           "type": "spacing"
         }
       },
       "displayXL": {
         "Tiny": {
-          "value": "{lineHeights.displayXL}-{core.xBase}*3",
+          "value": "{lineHeights.semantic.displayXL}-{core.xBase}*3",
           "type": "spacing"
         },
         "Small": {
-          "value": "{lineHeights.displayXL}-{core.xBase}*2",
+          "value": "{lineHeights.semantic.displayXL}-{core.xBase}*2",
           "type": "spacing"
         },
         "Medium": {
-          "value": "{lineHeights.displayXL}-{core.xBase}",
+          "value": "{lineHeights.semantic.displayXL}-{core.xBase}",
           "type": "spacing"
         },
         "Large": {
-          "value": "{lineHeights.displayXL}",
+          "value": "{lineHeights.semantic.displayXL}",
           "type": "spacing"
         },
         "Huge": {
-          "value": "{lineHeights.displayXL}+{core.xBase}",
+          "value": "{lineHeights.semantic.displayXL}+{core.xBase}",
           "type": "spacing"
         },
         "Paragraph": {
-          "value": "{lineHeights.displayXL}",
+          "value": "{lineHeights.semantic.displayXL}",
           "type": "spacing"
         }
       }
@@ -640,43 +640,43 @@
   "sizes": {
     "gravitySystem": {
       "bodyS": {
-        "value": "{fontSizes.bodyS}",
+        "value": "{fontSizes.semantic.bodyS}",
         "type": "sizing"
       },
       "bodyM": {
-        "value": "{fontSizes.bodyM}",
+        "value": "{fontSizes.semantic.bodyM}",
         "type": "sizing"
       },
       "bodyL": {
-        "value": "{fontSizes.bodyL}",
+        "value": "{fontSizes.semantic.bodyL}",
         "type": "sizing"
       },
       "bodyXL": {
-        "value": "{fontSizes.bodyXL}",
+        "value": "{fontSizes.semantic.bodyXL}",
         "type": "sizing"
       },
       "headlineXXS": {
-        "value": "{fontSizes.headlineXXS}",
+        "value": "{fontSizes.semantic.headlineXXS}",
         "type": "sizing"
       },
       "headlineXS": {
-        "value": "{fontSizes.headlineXS}",
+        "value": "{fontSizes.semantic.headlineXS}",
         "type": "sizing"
       },
       "headlineS": {
-        "value": "{fontSizes.headlineS}",
+        "value": "{fontSizes.semantic.headlineS}",
         "type": "sizing"
       },
       "headlineM": {
-        "value": "{fontSizes.headlineM}",
+        "value": "{fontSizes.semantic.headlineM}",
         "type": "sizing"
       },
       "headlineL": {
-        "value": "{fontSizes.headlineL}",
+        "value": "{fontSizes.semantic.headlineL}",
         "type": "sizing"
       },
       "headlineXL": {
-        "value": "{fontSizes.headlineXL}",
+        "value": "{fontSizes.semantic.headlineXL}",
         "type": "sizing"
       }
     },
