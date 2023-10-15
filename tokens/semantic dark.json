@@ -143,31 +143,31 @@
       },
       "success": {
         "4": {
-          "value": "hsla({core.palette.nebulaHerbal.400}, 0.12)",
+          "value": "hsla({core.palette.earthyTeal.400}, 0.12)",
           "type": "color"
         },
         "8": {
-          "value": "hsla({core.palette.nebulaHerbal.400}, 0.16)",
+          "value": "hsla({core.palette.earthyTeal.400}, 0.16)",
           "type": "color"
         },
         "12": {
-          "value": "hsla({core.palette.nebulaHerbal.400}, 0.20)",
+          "value": "hsla({core.palette.earthyTeal.400}, 0.20)",
           "type": "color"
         },
         "16": {
-          "value": "hsla({core.palette.nebulaHerbal.400}, 0.24)",
+          "value": "hsla({core.palette.earthyTeal.400}, 0.24)",
           "type": "color"
         },
         "24": {
-          "value": "hsla({core.palette.nebulaHerbal.400}, 0.32)",
+          "value": "hsla({core.palette.earthyTeal.400}, 0.32)",
           "type": "color"
         },
         "32": {
-          "value": "hsla({core.palette.nebulaHerbal.400}, 0.40)",
+          "value": "hsla({core.palette.earthyTeal.400}, 0.40)",
           "type": "color"
         },
         "40": {
-          "value": "hsla({core.palette.nebulaHerbal.400}, 0.48)",
+          "value": "hsla({core.palette.earthyTeal.400}, 0.48)",
           "type": "color"
         },
         "primary": {

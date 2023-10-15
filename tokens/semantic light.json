@@ -143,43 +143,43 @@
       },
       "success": {
         "4": {
-          "value": "hsla({core.palette.nebulaHerbal.500}, 0.04)",
+          "value": "hsla({core.palette.earthyTeal.500}, 0.04)",
           "type": "color"
         },
         "8": {
-          "value": "hsla({core.palette.nebulaHerbal.500}, 0.08)",
+          "value": "hsla({core.palette.earthyTeal.500}, 0.08)",
           "type": "color"
         },
         "12": {
-          "value": "hsla({core.palette.nebulaHerbal.500}, 0.12)",
+          "value": "hsla({core.palette.earthyTeal.500}, 0.12)",
           "type": "color"
         },
         "16": {
-          "value": "hsla({core.palette.nebulaHerbal.500}, 0.16)",
+          "value": "hsla({core.palette.earthyTeal.500}, 0.16)",
           "type": "color"
         },
         "24": {
-          "value": "hsla({core.palette.nebulaHerbal.500}, 0.24)",
+          "value": "hsla({core.palette.earthyTeal.500}, 0.24)",
           "type": "color"
         },
         "32": {
-          "value": "hsla({core.palette.nebulaHerbal.500}, 0.32)",
+          "value": "hsla({core.palette.earthyTeal.500}, 0.32)",
           "type": "color"
         },
         "40": {
-          "value": "hsla({core.palette.nebulaHerbal.500}, 0.40)",
+          "value": "hsla({core.palette.earthyTeal.500}, 0.40)",
           "type": "color"
         },
         "primary": {
-          "value": "hsla({core.palette.nebulaHerbal.500}, 1)",
+          "value": "hsla({core.palette.earthyTeal.500}, 1)",
           "type": "color"
         },
         "secondary": {
-          "value": "hsla({core.palette.nebulaHerbal.600}, 1)",
+          "value": "hsla({core.palette.earthyTeal.600}, 1)",
           "type": "color"
         },
         "tertiary": {
-          "value": "hsla({core.palette.nebulaHerbal.700}, 1)",
+          "value": "hsla({core.palette.earthyTeal.700}, 1)",
           "type": "color"
         }
       },
@@ -545,7 +545,7 @@
           "type": "color"
         },
         "success": {
-          "value": "hsla({core.palette.nebulaHerbal.0}, 1)",
+          "value": "hsla({core.palette.earthyTeal.0}, 1)",
           "type": "color"
         },
         "info": {
@@ -579,7 +579,7 @@
           "type": "color"
         },
         "success": {
-          "value": "hsla({core.palette.nebulaHerbal.0}, 1)",
+          "value": "hsla({core.palette.earthyTeal.0}, 1)",
           "type": "color"
         },
         "info": {
@@ -613,7 +613,7 @@
           "type": "color"
         },
         "success": {
-          "value": "hsla({core.palette.nebulaHerbal.0}, 1)",
+          "value": "hsla({core.palette.earthyTeal.0}, 1)",
           "type": "color"
         },
         "info": {
