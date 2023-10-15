@@ -299,6 +299,10 @@
         "value": "hsla({core.palette.earthyTeal.900}, 1)",
         "type": "color"
       },
+      "950": {
+        "value": "hsla({core.palette.earthyTeal.950}, 1)",
+        "type": "color"
+      },
       "1000": {
         "value": "hsla({core.palette.earthyTeal.1000}, 1)",
         "type": "color"
