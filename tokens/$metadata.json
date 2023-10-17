@@ -1,13 +1,13 @@
 {
   "tokenSetOrder": [
-    "core",
-    "palette",
+    "spaces, sizes, radii",
+    "typography",
+    "static palette",
     "semantic light",
-    "component tokens light",
+    "components light",
     "semantic dark",
-    "component tokens dark",
+    "components dark",
     "shadows",
-    "spaces, sizes, b.radius",
-    "typography"
+    "palette visualization"
   ]
 }
