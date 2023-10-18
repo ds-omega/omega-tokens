@@ -719,6 +719,316 @@
         "value": "{xBase}*10",
         "type": "borderRadius"
       }
+    },
+    "gravitySystem": {
+      "bodyS": {
+        "tiny": {
+          "value": "{xBase}",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{xBase}*2",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{xBase}*2",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        },
+        "huge": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        }
+      },
+      "bodyM": {
+        "tiny": {
+          "value": "{xBase}*2",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{xBase}*4",
+          "type": "borderRadius"
+        },
+        "huge": {
+          "value": "{xBase}*4",
+          "type": "borderRadius"
+        }
+      },
+      "bodyL": {
+        "tiny": {
+          "value": "{xBase}*2",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{xBase}*4",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{xBase}*4",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "huge": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        }
+      },
+      "bodyXL": {
+        "tiny": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        },
+        "huge": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        }
+      },
+      "headlineXXS": {
+        "tiny": {
+          "value": "{xBase}",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{xBase}*2",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{xBase}*2",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        },
+        "huge": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        }
+      },
+      "headlineXS": {
+        "tiny": {
+          "value": "{xBase}*2",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{xBase}*4",
+          "type": "borderRadius"
+        },
+        "huge": {
+          "value": "{xBase}*4",
+          "type": "borderRadius"
+        }
+      },
+      "headlineS": {
+        "tiny": {
+          "value": "{xBase}*2",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{xBase}*4",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{xBase}*4",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "huge": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        }
+      },
+      "headlineM": {
+        "tiny": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        },
+        "huge": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        }
+      },
+      "headlineL": {
+        "tiny": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        },
+        "huge": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        }
+      },
+      "headlineXL": {
+        "tiny": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        },
+        "huge": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        }
+      },
+      "displayS": {
+        "tiny": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        },
+        "huge": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        }
+      },
+      "displayM": {
+        "tiny": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        },
+        "huge": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        }
+      },
+      "displayL": {
+        "tiny": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        },
+        "huge": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        }
+      },
+      "displayXL": {
+        "tiny": {
+          "value": "{xBase}*3",
+          "type": "borderRadius"
+        },
+        "small": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "medium": {
+          "value": "{xBase}*5",
+          "type": "borderRadius"
+        },
+        "large": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        },
+        "huge": {
+          "value": "{xBase}*6",
+          "type": "borderRadius"
+        }
+      }
     }
   }
 }
