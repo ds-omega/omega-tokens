@@ -1028,6 +1028,10 @@
           "value": "{xBase}*6",
           "type": "borderRadius"
         }
+      },
+      "zero": {
+        "value": "0",
+        "type": "borderRadius"
       }
     }
   }
