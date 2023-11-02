@@ -584,11 +584,11 @@
     },
     "blackWhite": {
       "black": {
-        "value": "hsla({static.blackWhite.black}, 1)",
+        "value": "hsla({static.black}, 1)",
         "type": "color"
       },
       "white": {
-        "value": "hsla({static.blackWhite.white}, 1)",
+        "value": "hsla({static.white}, 1)",
         "type": "color"
       }
     }

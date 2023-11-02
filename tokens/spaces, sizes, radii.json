@@ -5,6 +5,10 @@
   },
   "sizes": {
     "static": {
+      "x0": {
+        "value": "0",
+        "type": "sizing"
+      },
       "x05": {
         "value": "{xBase}/2",
         "type": "sizing"
@@ -189,6 +193,10 @@
   },
   "spaces": {
     "static": {
+      "x0": {
+        "value": "0",
+        "type": "spacing"
+      },
       "x05": {
         "value": "{xBase}/2",
         "type": "spacing"
@@ -313,318 +321,366 @@
       }
     },
     "gravitySystem": {
-      "Zero": {
-        "value": "0",
-        "type": "spacing"
-      },
       "bodyS": {
-        "Tiny": {
+        "tiny": {
           "value": "{lineHeights.semantic.bodyS.tight}-{xBase}*3",
           "type": "spacing"
         },
-        "Small": {
+        "small": {
           "value": "{lineHeights.semantic.bodyS.tight}-{xBase}*2",
           "type": "spacing"
         },
-        "Medium": {
+        "medium": {
           "value": "{lineHeights.semantic.bodyS.tight}-{xBase}",
           "type": "spacing"
         },
-        "Large": {
+        "large": {
           "value": "{lineHeights.semantic.bodyS.tight}",
           "type": "spacing"
         },
-        "Huge": {
+        "huge": {
           "value": "{lineHeights.semantic.bodyS.tight}+{xBase}",
           "type": "spacing"
         },
-        "Paragraph": {
+        "paragraph": {
           "value": "{lineHeights.semantic.bodyS.paragraph}",
           "type": "spacing"
         }
       },
       "bodyM": {
-        "Tiny": {
+        "tiny": {
           "value": "{lineHeights.semantic.bodyM.tight}-{xBase}*3",
           "type": "spacing"
         },
-        "Small": {
+        "small": {
           "value": "{lineHeights.semantic.bodyM.tight}-{xBase}*2",
           "type": "spacing"
         },
-        "Medium": {
+        "medium": {
           "value": "{lineHeights.semantic.bodyM.tight}-{xBase}",
           "type": "spacing"
         },
-        "Large": {
+        "large": {
           "value": "{lineHeights.semantic.bodyM.tight}",
           "type": "spacing"
         },
-        "Huge": {
+        "huge": {
           "value": "{lineHeights.semantic.bodyM.tight}+{xBase}",
           "type": "spacing"
         },
-        "Paragraph": {
+        "paragraph": {
           "value": "{lineHeights.semantic.bodyM.paragraph}",
           "type": "spacing"
         }
       },
       "bodyL": {
-        "Tiny": {
+        "tiny": {
           "value": "{lineHeights.semantic.bodyL.tight}-{xBase}*3",
           "type": "spacing"
         },
-        "Small": {
+        "small": {
           "value": "{lineHeights.semantic.bodyL.tight}-{xBase}*2",
           "type": "spacing"
         },
-        "Medium": {
+        "medium": {
           "value": "{lineHeights.semantic.bodyL.tight}-{xBase}",
           "type": "spacing"
         },
-        "Large": {
+        "large": {
           "value": "{lineHeights.semantic.bodyL.tight}",
           "type": "spacing"
         },
-        "Huge": {
+        "huge": {
           "value": "{lineHeights.semantic.bodyL.tight}+{xBase}",
           "type": "spacing"
         },
-        "Paragraph": {
+        "paragraph": {
           "value": "{lineHeights.semantic.bodyL.paragraph}",
           "type": "spacing"
         }
       },
       "bodyXL": {
-        "Tiny": {
+        "tiny": {
           "value": "{lineHeights.semantic.bodyXL.tight}-{xBase}*3",
           "type": "spacing"
         },
-        "Small": {
+        "small": {
           "value": "{lineHeights.semantic.bodyXL.tight}-{xBase}*2",
           "type": "spacing"
         },
-        "Medium": {
+        "medium": {
           "value": "{lineHeights.semantic.bodyXL.tight}-{xBase}",
           "type": "spacing"
         },
-        "Large": {
+        "large": {
           "value": "{lineHeights.semantic.bodyXL.tight}",
           "type": "spacing"
         },
-        "Huge": {
+        "huge": {
           "value": "{lineHeights.semantic.bodyXL.tight}+{xBase}",
           "type": "spacing"
         },
-        "Paragraph": {
+        "paragraph": {
           "value": "{lineHeights.semantic.bodyXL.paragraph}",
           "type": "spacing"
         }
       },
+      "headlineXXS": {
+        "tiny": {
+          "value": "{lineHeights.semantic.headlineXXS}-{xBase}*3",
+          "type": "spacing"
+        },
+        "small": {
+          "value": "{lineHeights.semantic.headlineXXS}-{xBase}*2",
+          "type": "spacing"
+        },
+        "medium": {
+          "value": "{lineHeights.semantic.headlineXXS}-{xBase}",
+          "type": "spacing"
+        },
+        "large": {
+          "value": "{lineHeights.semantic.headlineXXS}",
+          "type": "spacing"
+        },
+        "huge": {
+          "value": "{lineHeights.semantic.headlineXXS}+{xBase}",
+          "type": "spacing"
+        },
+        "paragraph": {
+          "value": "{lineHeights.semantic.headlineXXS}",
+          "type": "spacing"
+        }
+      },
+      "headlineXS": {
+        "tiny": {
+          "value": "{lineHeights.semantic.headlineXS}-{xBase}*3",
+          "type": "spacing"
+        },
+        "small": {
+          "value": "{lineHeights.semantic.headlineXS}-{xBase}*2",
+          "type": "spacing"
+        },
+        "medium": {
+          "value": "{lineHeights.semantic.headlineXS}-{xBase}",
+          "type": "spacing"
+        },
+        "large": {
+          "value": "{lineHeights.semantic.headlineXS}",
+          "type": "spacing"
+        },
+        "huge": {
+          "value": "{lineHeights.semantic.headlineXS}+{xBase}",
+          "type": "spacing"
+        },
+        "paragraph": {
+          "value": "{lineHeights.semantic.headlineXS}",
+          "type": "spacing"
+        }
+      },
       "headlineS": {
-        "Tiny": {
+        "tiny": {
           "value": "{lineHeights.semantic.headlineS}-{xBase}*3",
           "type": "spacing"
         },
-        "Small": {
+        "small": {
           "value": "{lineHeights.semantic.headlineS}-{xBase}*2",
           "type": "spacing"
         },
-        "Medium": {
+        "medium": {
           "value": "{lineHeights.semantic.headlineS}-{xBase}",
           "type": "spacing"
         },
-        "Large": {
+        "large": {
           "value": "{lineHeights.semantic.headlineS}",
           "type": "spacing"
         },
-        "Huge": {
+        "huge": {
           "value": "{lineHeights.semantic.headlineS}+{xBase}",
           "type": "spacing"
         },
-        "Paragraph": {
+        "paragraph": {
           "value": "{lineHeights.semantic.headlineS}",
           "type": "spacing"
         }
       },
       "headlineM": {
-        "Tiny": {
+        "tiny": {
           "value": "{lineHeights.semantic.headlineM}-{xBase}*3",
           "type": "spacing"
         },
-        "Small": {
+        "small": {
           "value": "{lineHeights.semantic.headlineM}-{xBase}*2",
           "type": "spacing"
         },
-        "Medium": {
+        "medium": {
           "value": "{lineHeights.semantic.headlineM}-{xBase}",
           "type": "spacing"
         },
-        "Large": {
+        "large": {
           "value": "{lineHeights.semantic.headlineM}",
           "type": "spacing"
         },
-        "Huge": {
+        "huge": {
           "value": "{lineHeights.semantic.headlineM}+{xBase}",
           "type": "spacing"
         },
-        "Paragraph": {
+        "paragraph": {
           "value": "{lineHeights.semantic.headlineM}",
           "type": "spacing"
         }
       },
       "headlineL": {
-        "Tiny": {
+        "tiny": {
           "value": "{lineHeights.semantic.headlineL}-{xBase}*3",
           "type": "spacing"
         },
-        "Small": {
+        "small": {
           "value": "{lineHeights.semantic.headlineL}-{xBase}*2",
           "type": "spacing"
         },
-        "Medium": {
+        "medium": {
           "value": "{lineHeights.semantic.headlineL}-{xBase}",
           "type": "spacing"
         },
-        "Large": {
+        "large": {
           "value": "{lineHeights.semantic.headlineL}",
           "type": "spacing"
         },
-        "Huge": {
+        "huge": {
           "value": "{lineHeights.semantic.headlineL}+{xBase}",
           "type": "spacing"
         },
-        "Paragraph": {
+        "paragraph": {
           "value": "{lineHeights.semantic.headlineL}",
           "type": "spacing"
         }
       },
       "headlineXL": {
-        "Tiny": {
+        "tiny": {
           "value": "{lineHeights.semantic.headlineXL}-{xBase}*3",
           "type": "spacing"
         },
-        "Small": {
+        "small": {
           "value": "{lineHeights.semantic.headlineXL}-{xBase}*2",
           "type": "spacing"
         },
-        "Medium": {
+        "medium": {
           "value": "{lineHeights.semantic.headlineXL}-{xBase}",
           "type": "spacing"
         },
-        "Large": {
+        "large": {
           "value": "{lineHeights.semantic.headlineXL}",
           "type": "spacing"
         },
-        "Huge": {
+        "huge": {
           "value": "{lineHeights.semantic.headlineXL}+{xBase}",
           "type": "spacing"
         },
-        "Paragraph": {
+        "paragraph": {
           "value": "{lineHeights.semantic.headlineXL}",
           "type": "spacing"
         }
       },
       "displayS": {
-        "Tiny": {
+        "tiny": {
           "value": "{lineHeights.semantic.displayS}-{xBase}*3",
           "type": "spacing"
         },
-        "Small": {
+        "small": {
           "value": "{lineHeights.semantic.displayS}-{xBase}*2",
           "type": "spacing"
         },
-        "Medium": {
+        "medium": {
           "value": "{lineHeights.semantic.displayS}-{xBase}",
           "type": "spacing"
         },
-        "Large": {
+        "large": {
           "value": "{lineHeights.semantic.displayS}",
           "type": "spacing"
         },
-        "Huge": {
+        "huge": {
           "value": "{lineHeights.semantic.displayS}+{xBase}",
           "type": "spacing"
         },
-        "Paragraph": {
+        "paragraph": {
           "value": "{lineHeights.semantic.displayS}",
           "type": "spacing"
         }
       },
       "displayM": {
-        "Tiny": {
+        "tiny": {
           "value": "{lineHeights.semantic.displayM}-{xBase}*3",
           "type": "spacing"
         },
-        "Small": {
+        "small": {
           "value": "{lineHeights.semantic.displayM}-{xBase}*2",
           "type": "spacing"
         },
-        "Medium": {
+        "medium": {
           "value": "{lineHeights.semantic.displayM}-{xBase}",
           "type": "spacing"
         },
-        "Large": {
+        "large": {
           "value": "{lineHeights.semantic.displayM}",
           "type": "spacing"
         },
-        "Huge": {
+        "huge": {
           "value": "{lineHeights.semantic.displayM}+{xBase}",
           "type": "spacing"
         },
-        "Paragraph": {
+        "paragraph": {
           "value": "{lineHeights.semantic.displayM}",
           "type": "spacing"
         }
       },
       "displayL": {
-        "Tiny": {
+        "tiny": {
           "value": "{lineHeights.semantic.displayL}-{xBase}*3",
           "type": "spacing"
         },
-        "Small": {
+        "small": {
           "value": "{lineHeights.semantic.displayL}-{xBase}*2",
           "type": "spacing"
         },
-        "Medium": {
+        "medium": {
           "value": "{lineHeights.semantic.displayL}-{xBase}",
           "type": "spacing"
         },
-        "Large": {
+        "large": {
           "value": "{lineHeights.semantic.displayL}",
           "type": "spacing"
         },
-        "Huge": {
+        "huge": {
           "value": "{lineHeights.semantic.displayL}+{xBase}",
           "type": "spacing"
         },
-        "Paragraph": {
+        "paragraph": {
           "value": "{lineHeights.semantic.displayL}",
           "type": "spacing"
         }
       },
       "displayXL": {
-        "Tiny": {
+        "tiny": {
           "value": "{lineHeights.semantic.displayXL}-{xBase}*3",
           "type": "spacing"
         },
-        "Small": {
+        "small": {
           "value": "{lineHeights.semantic.displayXL}-{xBase}*2",
           "type": "spacing"
         },
-        "Medium": {
+        "medium": {
           "value": "{lineHeights.semantic.displayXL}-{xBase}",
           "type": "spacing"
         },
-        "Large": {
+        "large": {
           "value": "{lineHeights.semantic.displayXL}",
           "type": "spacing"
         },
-        "Huge": {
+        "huge": {
           "value": "{lineHeights.semantic.displayXL}+{xBase}",
           "type": "spacing"
         },
-        "Paragraph": {
+        "paragraph": {
           "value": "{lineHeights.semantic.displayXL}",
           "type": "spacing"
         }
@@ -633,6 +689,10 @@
   },
   "radii": {
     "static": {
+      "x0": {
+        "value": "0",
+        "type": "borderRadius"
+      },
       "x05": {
         "value": "{xBase}/2",
         "type": "borderRadius"
@@ -1028,10 +1088,6 @@
           "value": "{xBase}*6",
           "type": "borderRadius"
         }
-      },
-      "zero": {
-        "value": "0",
-        "type": "borderRadius"
       }
     }
   }

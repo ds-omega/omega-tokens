@@ -582,15 +582,13 @@
         "type": "color"
       }
     },
-    "blackWhite": {
-      "black": {
-        "value": "0, 0%, 0%",
-        "type": "color"
-      },
-      "white": {
-        "value": "0, 0%, 100%",
-        "type": "color"
-      }
+    "black": {
+      "value": "0, 0%, 0%",
+      "type": "color"
+    },
+    "white": {
+      "value": "0, 0%, 100%",
+      "type": "color"
     }
   }
 }

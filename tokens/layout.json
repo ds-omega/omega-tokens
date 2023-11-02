@@ -1,0 +1,36 @@
+{
+  "zIndices": {
+    "elevation0": {
+      "value": "1",
+      "type": "zIndices"
+    },
+    "elevation1": {
+      "value": "5",
+      "type": "zIndices"
+    },
+    "elevation2": {
+      "value": "10",
+      "type": "zIndices"
+    },
+    "elevation3": {
+      "value": "15",
+      "type": "zIndices"
+    },
+    "background0": {
+      "value": "{zIndices.elevation0} -1",
+      "type": "zIndices"
+    },
+    "background1": {
+      "value": "{zIndices.elevation1} -1",
+      "type": "zIndices"
+    },
+    "background2": {
+      "value": "{zIndices.elevation2} -1",
+      "type": "zIndices"
+    },
+    "background3": {
+      "value": "{zIndices.elevation3} -1",
+      "type": "zIndices"
+    }
+  }
+}
