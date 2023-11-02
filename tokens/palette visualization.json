@@ -582,15 +582,13 @@
         "type": "color"
       }
     },
-    "blackWhite": {
-      "black": {
-        "value": "hsla({static.black}, 1)",
-        "type": "color"
-      },
-      "white": {
-        "value": "hsla({static.white}, 1)",
-        "type": "color"
-      }
+    "black": {
+      "value": "hsla({static.black}, 1)",
+      "type": "color"
+    },
+    "white": {
+      "value": "hsla({static.white}, 1)",
+      "type": "color"
     }
   }
 }
