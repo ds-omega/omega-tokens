@@ -738,7 +738,7 @@
         "type": "borderRadius"
       },
       "infinite": {
-        "value": "10000",
+        "value": "9999",
         "type": "borderRadius"
       }
     },
