@@ -42,7 +42,7 @@
         "type": "sizing"
       },
       "x8": {
-        "value": "{xBase}*7",
+        "value": "{xBase}*8",
         "type": "sizing"
       },
       "x9": {
@@ -230,7 +230,7 @@
         "type": "spacing"
       },
       "x8": {
-        "value": "{xBase}*7",
+        "value": "{xBase}*8",
         "type": "spacing"
       },
       "x9": {
@@ -726,7 +726,7 @@
         "type": "borderRadius"
       },
       "x8": {
-        "value": "{xBase}*7",
+        "value": "{xBase}*8",
         "type": "borderRadius"
       },
       "x9": {
