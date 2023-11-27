@@ -96,39 +96,39 @@
     },
     "semantic": {
       "xxxs": {
-        "value": "{xBase}/2",
+        "value": "{sizes.static.x05}",
         "type": "sizing"
       },
       "xxs": {
-        "value": "{xBase}",
+        "value": "{sizes.static.x1}",
         "type": "sizing"
       },
       "xs": {
-        "value": "{xBase}*2",
+        "value": "{sizes.static.x2}",
         "type": "sizing"
       },
       "sm": {
-        "value": "{xBase}*3",
+        "value": "{sizes.static.x3}",
         "type": "sizing"
       },
       "md": {
-        "value": "{xBase}*4",
+        "value": "{sizes.static.x4}",
         "type": "sizing"
       },
       "lg": {
-        "value": "{xBase}*6",
+        "value": "{sizes.static.x6}",
         "type": "sizing"
       },
       "xl": {
-        "value": "{xBase}*8",
+        "value": "{sizes.static.x8}",
         "type": "sizing"
       },
       "xxl": {
-        "value": "{xBase}*10",
+        "value": "{sizes.static.x10}",
         "type": "sizing"
       },
       "xxxl": {
-        "value": "{xBase}*12",
+        "value": "{sizes.static.x12}",
         "type": "sizing"
       }
     },
@@ -284,39 +284,39 @@
     },
     "semantic": {
       "xxxs": {
-        "value": "{xBase}/2",
+        "value": "{spaces.static.x05}",
         "type": "spacing"
       },
       "xxs": {
-        "value": "{xBase}",
+        "value": "{spaces.static.x1}",
         "type": "spacing"
       },
       "xs": {
-        "value": "{xBase}*2",
+        "value": "{spaces.static.x2}",
         "type": "spacing"
       },
       "sm": {
-        "value": "{xBase}*3",
+        "value": "{spaces.static.x3}",
         "type": "spacing"
       },
       "md": {
-        "value": "{xBase}*4",
+        "value": "{spaces.static.x4}",
         "type": "spacing"
       },
       "lg": {
-        "value": "{xBase}*5",
+        "value": "{spaces.static.x5}",
         "type": "spacing"
       },
       "xl": {
-        "value": "{xBase}*6",
+        "value": "{spaces.static.x6}",
         "type": "spacing"
       },
       "xxl": {
-        "value": "{xBase}*8",
+        "value": "{spaces.static.x8}",
         "type": "spacing"
       },
       "xxxl": {
-        "value": "{xBase}*10",
+        "value": "{spaces.static.x10}",
         "type": "spacing"
       }
     },
@@ -744,39 +744,39 @@
     },
     "semantic": {
       "xxxs": {
-        "value": "{xBase}/2",
+        "value": "{radii.static.x05}",
         "type": "borderRadius"
       },
       "xxs": {
-        "value": "{xBase}",
+        "value": "{radii.static.x1}",
         "type": "borderRadius"
       },
       "xs": {
-        "value": "{xBase}*2",
+        "value": "{radii.static.x2}",
         "type": "borderRadius"
       },
       "sm": {
-        "value": "{xBase}*3",
+        "value": "{radii.static.x3}",
         "type": "borderRadius"
       },
       "md": {
-        "value": "{xBase}*4",
+        "value": "{radii.static.x4}",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "{xBase}*5",
+        "value": "{radii.static.x5}",
         "type": "borderRadius"
       },
       "xl": {
-        "value": "{xBase}*6",
+        "value": "{radii.static.x6}",
         "type": "borderRadius"
       },
       "xxl": {
-        "value": "{xBase}*8",
+        "value": "{radii.static.x8}",
         "type": "borderRadius"
       },
       "xxxl": {
-        "value": "{xBase}*10",
+        "value": "{radii.static.x10}",
         "type": "borderRadius"
       }
     },
