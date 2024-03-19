@@ -91,6 +91,10 @@
         "primary": {
           "value": "hsla({static.white}, 1)",
           "type": "color"
+        },
+        "secondary": {
+          "value": "hsla({static.titanGray.900}, 1)",
+          "type": "color"
         }
       },
       "transparent": {

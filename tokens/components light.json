@@ -348,6 +348,10 @@
           "text": {
             "value": "{semantic.light.text.primary}",
             "type": "color"
+          },
+          "border": {
+            "value": "{semantic.light.primary.primary}",
+            "type": "color"
           }
         },
         "brand": {
@@ -361,6 +365,10 @@
           },
           "text": {
             "value": "{semantic.light.text.brand}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.light.brand.primary}",
             "type": "color"
           }
         },
@@ -376,6 +384,10 @@
           "text": {
             "value": "{semantic.light.text.success}",
             "type": "color"
+          },
+          "border": {
+            "value": "{semantic.light.success.primary}",
+            "type": "color"
           }
         },
         "info": {
@@ -389,6 +401,10 @@
           },
           "text": {
             "value": "{semantic.light.text.info}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.light.info.primary}",
             "type": "color"
           }
         },
@@ -404,6 +420,10 @@
           "text": {
             "value": "{semantic.light.text.warning}",
             "type": "color"
+          },
+          "border": {
+            "value": "{semantic.light.warning.primary}",
+            "type": "color"
           }
         },
         "critical": {
@@ -418,6 +438,10 @@
           "text": {
             "value": "{semantic.light.text.critical}",
             "type": "color"
+          },
+          "border": {
+            "value": "{semantic.light.critical.primary}",
+            "type": "color"
           }
         },
         "neutral": {
@@ -431,6 +455,10 @@
           },
           "text": {
             "value": "{semantic.light.text.neutral}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.light.neutral.primary}",
             "type": "color"
           }
         }
@@ -1464,21 +1492,93 @@
         }
       },
       "steps": {
-        "active": {
-          "bodyNormal": {
-            "value": "{semantic.light.brand.primary}",
-            "type": "color"
+        "on": {
+          "brand": {
+            "bodyNormal": {
+              "value": "{semantic.light.brand.primary}",
+              "type": "color"
+            },
+            "bodyHover": {
+              "value": "{semantic.light.brand.secondary}",
+              "type": "color"
+            },
+            "bodyClick": {
+              "value": "{semantic.light.brand.tertiary}",
+              "type": "color"
+            }
           },
-          "bodyHover": {
-            "value": "{semantic.light.brand.secondary}",
-            "type": "color"
+          "success": {
+            "bodyNormal": {
+              "value": "{semantic.light.success.primary}",
+              "type": "color"
+            },
+            "bodyHover": {
+              "value": "{semantic.light.success.secondary}",
+              "type": "color"
+            },
+            "bodyClick": {
+              "value": "{semantic.light.success.tertiary}",
+              "type": "color"
+            }
           },
-          "bodyClick": {
-            "value": "{semantic.light.brand.tertiary}",
-            "type": "color"
+          "info": {
+            "bodyNormal": {
+              "value": "{semantic.light.info.primary}",
+              "type": "color"
+            },
+            "bodyHover": {
+              "value": "{semantic.light.info.secondary}",
+              "type": "color"
+            },
+            "bodyClick": {
+              "value": "{semantic.light.info.tertiary}",
+              "type": "color"
+            }
+          },
+          "warning": {
+            "bodyNormal": {
+              "value": "{semantic.light.warning.primary}",
+              "type": "color"
+            },
+            "bodyHover": {
+              "value": "{semantic.light.warning.secondary}",
+              "type": "color"
+            },
+            "bodyClick": {
+              "value": "{semantic.light.warning.tertiary}",
+              "type": "color"
+            }
+          },
+          "critical": {
+            "bodyNormal": {
+              "value": "{semantic.light.critical.primary}",
+              "type": "color"
+            },
+            "bodyHover": {
+              "value": "{semantic.light.critical.secondary}",
+              "type": "color"
+            },
+            "bodyClick": {
+              "value": "{semantic.light.critical.tertiary}",
+              "type": "color"
+            }
+          },
+          "neutral": {
+            "bodyNormal": {
+              "value": "{semantic.light.neutral.primary}",
+              "type": "color"
+            },
+            "bodyHover": {
+              "value": "{semantic.light.neutral.secondary}",
+              "type": "color"
+            },
+            "bodyClick": {
+              "value": "{semantic.light.neutral.tertiary}",
+              "type": "color"
+            }
           }
         },
-        "inactive": {
+        "off": {
           "bodyNormal": {
             "value": "{semantic.light.primary.8}",
             "type": "color"
@@ -1829,6 +1929,50 @@
         "text": {
           "value": "{semantic.light.text.constantPrimary}",
           "type": "color"
+        }
+      },
+      "progress": {
+        "filled": {
+          "background": {
+            "value": "{semantic.light.primary.8}",
+            "type": "color"
+          },
+          "backgroundConstant": {
+            "value": "{semantic.light.constant.8}",
+            "type": "color"
+          },
+          "bodyPrimary": {
+            "value": "{semantic.light.primary.primary}",
+            "type": "color"
+          },
+          "bodyBrand": {
+            "value": "{semantic.light.brand.primary}",
+            "type": "color"
+          },
+          "bodySuccess": {
+            "value": "{semantic.light.success.primary}",
+            "type": "color"
+          },
+          "bodyInfo": {
+            "value": "{semantic.light.info.primary}",
+            "type": "color"
+          },
+          "bodyWarning": {
+            "value": "{semantic.light.warning.primary}",
+            "type": "color"
+          },
+          "bodyCritical": {
+            "value": "{semantic.light.critical.primary}",
+            "type": "color"
+          },
+          "bodyNeutral": {
+            "value": "{semantic.light.neutral.primary}",
+            "type": "color"
+          },
+          "bodyConstant": {
+            "value": "{semantic.light.constant.primary}",
+            "type": "color"
+          }
         }
       }
     }
