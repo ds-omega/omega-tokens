@@ -1660,6 +1660,20 @@
               "value": "{semantic.light.neutral.tertiary}",
               "type": "color"
             }
+          },
+          "constant": {
+            "bodyNormal": {
+              "value": "{semantic.light.constant.primary}",
+              "type": "color"
+            },
+            "bodyHover": {
+              "value": "{semantic.light.constant.90}",
+              "type": "color"
+            },
+            "bodyClick": {
+              "value": "{semantic.light.constant.80}",
+              "type": "color"
+            }
           }
         },
         "off": {
