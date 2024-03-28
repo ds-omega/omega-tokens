@@ -2003,7 +2003,7 @@
       },
       "hint": {
         "body": {
-          "value": "{semantic.light.primary.primary}",
+          "value": "{semantic.light.constant.secondary}",
           "type": "color"
         },
         "title": {
@@ -2021,7 +2021,7 @@
       },
       "tooltip": {
         "body": {
-          "value": "{semantic.light.primary.primary}",
+          "value": "{semantic.light.constant.secondary}",
           "type": "color"
         },
         "text": {
