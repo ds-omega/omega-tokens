@@ -1,0 +1,15 @@
+{
+  "tokenSetOrder": [
+    "spaces, sizes, radii",
+    "typography",
+    "static palette",
+    "semantic light",
+    "components light",
+    "semantic dark",
+    "components dark",
+    "shadows light",
+    "shadows dark",
+    "palette visualization",
+    "layout"
+  ]
+}

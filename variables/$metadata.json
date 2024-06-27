@@ -1,0 +1,26 @@
+{
+  "tokenSetOrder": [
+    "xBase / 3px",
+    "xBase / 4px",
+    "xBase / 5px",
+    "xBase / 6px",
+    "xBase / 8px",
+    "xBase / core",
+    "spaces, sizes, radii",
+    "typography",
+    "color tokens/ static palette",
+    "color tokens/ semantic_light",
+    "color tokens/ semantic_dark",
+    "color tokens/ components_light",
+    "color tokens/ components_dark",
+    "shadows_light",
+    "shadows_dark",
+    "layout",
+    "gravity / bodyS",
+    "gravity / bodyM",
+    "gravity / bodyL",
+    "gravity / bodyXL",
+    "gravity / headlineXXS",
+    "gravity / headlineXS"
+  ]
+}

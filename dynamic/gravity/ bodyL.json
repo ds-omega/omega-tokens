@@ -1,0 +1,68 @@
+{
+  "spaces": {
+    "zero": {
+      "value": "0",
+      "type": "spacing"
+    },
+    "tiny": {
+      "value": "{xBase.300}",
+      "type": "spacing"
+    },
+    "small": {
+      "value": "{xBase.400}",
+      "type": "spacing"
+    },
+    "medium": {
+      "value": "{xBase.500}",
+      "type": "spacing"
+    },
+    "large": {
+      "value": "{lineHeights.bodyL.tight}",
+      "type": "spacing"
+    },
+    "huge": {
+      "value": "{xBase.700}",
+      "type": "spacing"
+    },
+    "paragraph": {
+      "value": "{lineHeights.bodyL.paragraph}",
+      "type": "spacing"
+    }
+  },
+  "radii": {
+    "tiny": {
+      "value": "{xBase.200}",
+      "type": "borderRadius"
+    },
+    "small": {
+      "value": "{xBase.400}",
+      "type": "borderRadius"
+    },
+    "medium": {
+      "value": "{xBase.400}",
+      "type": "borderRadius"
+    },
+    "large": {
+      "value": "{xBase.500}",
+      "type": "borderRadius"
+    },
+    "huge": {
+      "value": "{xBase.500}",
+      "type": "borderRadius"
+    }
+  },
+  "fontSize": {
+    "value": "{fontSizes.bodyL}",
+    "type": "sizing"
+  },
+  "lineHeight": {
+    "tight": {
+      "value": "{lineHeights.bodyL.tight}",
+      "type": "sizing"
+    },
+    "paragraph": {
+      "value": "{lineHeights.bodyL.paragraph}",
+      "type": "sizing"
+    }
+  }
+}
